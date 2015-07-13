@@ -41,6 +41,9 @@ share_stumbleupon: true
 share_hackernews: true
 
 # Build settings
+gems:
+  - jekyll-redirect-from
+  
 include: ['_pages']
 markdown:     kramdown
 permalink:    pretty
