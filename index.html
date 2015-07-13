@@ -1,0 +1,42 @@
+---
+layout: default
+title: Goyllo
+description: Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software. 
+---
+
+<div class="home">
+
+<div class="square">
+    <h1><a href="/blogger/">Blogger</a></h1>
+	<p> Google Blogger Widgets and Tutorials </p>
+</div>
+
+<div class="square">
+    <h1><a href="/seo/">SEO</a></h1>
+	<p> Search Engine Optimization Tutorials </p>
+</div>
+
+<div class="square">
+    <h1><a href="/jekyll/">Jekyll</a></h1>
+	<p> Flexible Blog Engine for developers </p>
+</div>
+
+<div class="square">
+    <h1><a href="/blogging/">Blogging</a></h1>
+	<p> Get blogging Ideas to start own blog </p>
+</div><br/>
+
+  <h1 class="page-heading">Recent Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts limit:20 %}
+      <li>	
+        <h2>
+         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>   
+        </h2>
+		<p> <i>{{post.excerpt | truncatewords: 30 }}</i> </p>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
