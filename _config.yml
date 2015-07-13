@@ -1,0 +1,20 @@
+# Site settings
+title: Goyllo
+email: contact@goyllo.com
+description: > # this means to ignore newlines until "baseurl:"
+ Get useful guidelines on internet and software tutorials.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.goyllo.com" # the base hostname & protocol for your site
+twitter_username: Goyllo3315
+github_username:  goyllo
+
+# Build settings
+highlighter: pygments
+markdown: kramdown
+permalink: none
+
+include: ['_pages']
+
+gems:
+   - jekyll-redirect-from
+
