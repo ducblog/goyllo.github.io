@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why I choose Jekyll over WordPress"
+title:  "Why I chose Jekyll over WordPress"
 categories: jekyll
 redirect_from:
  - /jekyll/personal/jekylll-over-wordpress/
