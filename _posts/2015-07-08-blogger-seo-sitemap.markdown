@@ -4,6 +4,7 @@ title:  "Blogger XML Sitemap : Hidden Features"
 categories: bloggerseo
 redirect_from:
  - /google/blogger/seo/xml-sitemap/
+ - /2015/04/about-blogger-sitemap.html
 permalink: blogger/seo/xml-sitemap/
 tags: 
 - blogger
