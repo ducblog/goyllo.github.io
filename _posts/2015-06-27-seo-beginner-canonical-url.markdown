@@ -4,7 +4,7 @@ title:  "Basic of canonical link tag - SEO guide"
 categories: beginnerseo
 redirect_from:
  - /webmaster/seo/beginner/canonical-link-tag/
- - /webmaster/seo/beginner/canonical-url
+ - /webmaster/seo/beginner/canonical-url/
 permalink: seo/beginner/canonical-link-tag/
 tags: 
 - seo
