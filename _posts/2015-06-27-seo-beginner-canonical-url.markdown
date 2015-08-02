@@ -8,6 +8,7 @@ redirect_from:
 permalink: seo/beginner/canonical-link-tag/
 tags: 
 - seo
+description: Understand How Search Engine treat canonical link tag, and How you can implement in your website.
 ---
 
 The canonical link tag is strong hint for search engine (<a href="https://support.google.com/webmasters/answer/139066?hl=en&rd=1" rel="nofollow" target="_blank">Google</a>,<a href="http://www.ysearchblog.com/2009/02/12/fighting-duplication-adding-more-arrows-to-your-quiver/" rel="nofollow" target="_blank">Yahoo</a>) to which page link or which preferred URL we want to index in search result among all other duplicate URLs.

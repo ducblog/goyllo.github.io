@@ -7,6 +7,7 @@ redirect_from:
 permalink: internet/get-news-in-your-email/
 tags: 
 - Google-Alert
+description: How to setup Google Alert news to get your favorite news directly in your email address.
 ---
 
 A Google Alert is one of the amazing products of <a href="/google/">Google</a> Company, it will help to get specific news on any topic, directly to the Gmail inbox.

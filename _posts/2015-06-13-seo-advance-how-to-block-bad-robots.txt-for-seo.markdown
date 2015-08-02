@@ -7,6 +7,7 @@ redirect_from:
 permalink: seo/advance/block-seo-bots-robots-txt/
 tags: 
 - seo
+description: Learn how to block seo bots using robots txt and say bye bye to your competitors for spaying in your website.
 ---
 
 Hello guys, I know many of Expert Marketers using many of SEO tools like SEMrush, Market Samurai and Majestic SEO to rank higher over its competitors. But did you ever note, how these tools are working? How they get information from most of site? But surely you will get the hint from the title of this page.

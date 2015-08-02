@@ -19,9 +19,30 @@ layout: default
          &#187; <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}" itemprop="url"><span itemprop='title'>{{ crumb | replace:'-',' ' }}</span></a></span>
     {% endif %}
   {% endfor %}
-</div><br/><br/>
-  
+</div><br/>
+  {% if page.update_date %} {{ page.update_date | date: "%b %-d, %Y" }}  {% endif %} 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GoylloResponsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6217059145544649"
+     data-ad-slot="4127508010"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>  
+<br/>
+
     {{ content }}
 
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- GoylloResponsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6217059145544649"
+     data-ad-slot="4127508010"
+     data-ad-format="horizontal"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 </div>

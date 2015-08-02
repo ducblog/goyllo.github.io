@@ -8,6 +8,7 @@ permalink: jekyll/jekylll-over-wordpress/
 tags: 
 - jekyll
 - personal
+description: Here, is my personal review about Jekyll, and Why I like jekyll over WordPress.
 ---
 
 Well, I start blogging, when I was in the first year of Computer Engineering degree (2011), I started my blogging journey from <a href="/blogger/">Google blogger</a>, and actually it's simple and powerful blogging platform ever, I am not a professional blogger, so I just post some tricks and tips about computer. After two years, I was learning many things in the internet. Many of professional blogger choose WordPress over blogger, because of flexibility, control and absolutely plugins that make life easy for anyone, also WordPress cover more than 20% of the web according to w3tech. So I just try out WordPress with my friend hosting site. I did not face any problem while setup, because I already learn a lot of about WordPress in my local host. I just install some plugins like w3total cache, Jetpack, SEO by Yoast. Well everything is working fine. But after a few days, the SEO by Yoast plugin got vulnerable, also I use <a href="/internet/get-news-in-your-email/"> Google alert </a>for "Zero Day Exploit" Where I got most of news about Microsoft and WordPress Vulnerability. Then I miss Google blogger platform, because it is hosted on Google cloud, so it's more secure than any.

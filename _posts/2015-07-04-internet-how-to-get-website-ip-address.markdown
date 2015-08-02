@@ -7,6 +7,7 @@ permalink: internet/know-website-ip/
 tags: 
 - internet
 - website
+description: Steps to find website IP address easily, with command line tools cmd.
 ---
 
 Every website is hosted on the server machine, and using DNS to remember website name easily, so behind DNS, there is the original IP address of the machine or content delivery network (CDN) server IP address. If some of the website using a third party CDN, then you can’t get the original IP of a website, but most of the webmaster only using a CDN to serve files like JavaScript, CSS, Icons, Images etc in order to increase website loading speed. And other content is delivered direct from the original source, so you will get the real IP address in most of the scenario.

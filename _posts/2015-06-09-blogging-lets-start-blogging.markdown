@@ -10,6 +10,7 @@ categories: blogging
 permalink: blogging/start-your-blog/
 tags: 
 - blogging
+description: Beginner guide to start your own blog, and which blogging platform you should use.
 ---
 
 Blogging is web 2.0 technologies. In web 1.0 mostly the common web pages are published in the internet world. They contain only text and links, and sometimes images, but now you can embed music, videos, sideshow, PDF files, doc files etc. In your web page.

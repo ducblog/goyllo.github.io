@@ -7,6 +7,7 @@ redirect_from:
 permalink: seo/beginner/optimize-meta-description/
 tags: 
 - seo
+description: Learn how to add proper meta description in your website, and why Google ignore your meta description many times.
 ---
 
 Welcome to this first tutorial on SEO- Search Engine Optimization. In this post I will tell you how to optimize your Meta description in the correct way. 

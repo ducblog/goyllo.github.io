@@ -7,6 +7,7 @@ redirect_from:
 permalink: blogger/widget/remover-powered-by-blogger-attribution/
 tags: 
 - blogger
+description: Step by step guide to remove powered by blogger attribution from your blog.
 ---
 
 In this tutorial, I will tell you how to remove “powered by blogger” attribution widget/gadget that appear in the blogger footer. As per my suggestion, you should not remove the “powered by blogger” attribution, keep the credit link as it is, but if you really want to remove it, then go ahead, don’t worry your blogger blog will not remove by Google.

@@ -9,6 +9,7 @@ permalink: blogger/seo/meta-description/
 tags: 
 - blogger
 - seo
+description: Learn how to add proper meta description in your blogger homepage also in your every blog post.
 ---
 
 In this post, I will show you how I added Meta description to my blogger blog and every post. It's useful for search engines like Google, Yahoo, and Bing etc. If you didn't know anything about it. Then please look out on [*optimize meta description in your website*](/seo/beginner/optimize-meta-description/) guide.

@@ -7,6 +7,7 @@ redirect_from:
 permalink: webmaster/add-website-to-google-webmaster-tools/
 tags: 
 - webmaster
+description: Begineer tutorial to add your website in Google Webmaster Tools.
 ---
 
 In this beginner tutorial, I will tell you How to add your website on Google Webmaster Tool (GWT) to improve your site on Google search result by fixing errors. You will get many suggestions in Google webmaster tools, so Google spider can understand your web content more deeply.

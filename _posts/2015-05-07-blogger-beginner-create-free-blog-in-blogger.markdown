@@ -7,6 +7,7 @@ redirect_from:
  - /google/blogger/beginner-tutorials/create-your-first-blog/
 categories: bloggerbeginnertutorials
 permalink: blogger/beginner/create-your-first-blog/
+description: Step by step guide to create your first free blog in Google blogger, it's so easy, and simple.
 tags: 
 - blogger
 ---

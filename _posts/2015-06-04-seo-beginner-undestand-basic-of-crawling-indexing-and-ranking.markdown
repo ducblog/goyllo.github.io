@@ -7,6 +7,7 @@ categories: beginnerseo
 permalink: seo/beginner/basic-of-crawling-indexing-and-ranking/
 tags: 
 - seo
+description: Beginner tutorial to understand how search engine like Google, Bing and Yahoo work for SEO.
 ---
 
 Google Search Engine work with these three phases.

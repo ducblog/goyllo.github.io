@@ -22,6 +22,11 @@ description: Goyllo is tech website, where you can find many tutorials, tips and
 </div>
 
 <div class="square">
+    <h1><a href="/coupons/">Coupons</a></h1>
+	<p> Get Latest Coupons and Deals Offers.</p>
+</div>
+
+<div class="square">
     <h1><a href="/blogging/">Blogging</a></h1>
 	<p> Get blogging Ideas to start own blog </p>
 </div><br/>
@@ -34,7 +39,7 @@ description: Goyllo is tech website, where you can find many tutorials, tips and
         <h2>
          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>   
         </h2>
-		<p> <i>{{post.excerpt | truncatewords: 30 }}</i> </p>
+		<p> <i>{{post.description }}</i> </p>
       </li>
     {% endfor %}
   </ul>

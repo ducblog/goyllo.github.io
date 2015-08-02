@@ -5,6 +5,7 @@ categories: androidbeginner
 permalink: developer/android/beginner/knowledge-or-language/
 tags: 
 - androidbeginner
+description: Which language and knowledge you should know to start developing android app.
 ---
 
 Welcome to this initial tutorial on developing android app from scratch. Here I posted some basic requirement to start out to develop your own Android app.
