@@ -15,7 +15,7 @@
                     {% endif %}
                     </a>
 					<br/>
-				<div class="PostDescription">{{post.excerpt | truncatewords: 15 }}</div>
+				<div class="PostDescription">{{post.description }}</div>
                 </div>
                 {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
                 {% assign postHasSimilar = true %}
