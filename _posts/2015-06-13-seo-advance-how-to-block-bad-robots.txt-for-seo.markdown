@@ -7,6 +7,7 @@ redirect_from:
 permalink: seo/advance/block-seo-bots-robots-txt/
 tags: 
 - seo
+- robotstxt
 description: Learn how to block seo bots using robots txt and say bye bye to your competitors for spaying in your website.
 ---
 
