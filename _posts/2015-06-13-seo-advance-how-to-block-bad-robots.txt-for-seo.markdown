@@ -15,7 +15,7 @@ Hello guys, I know many of Expert Marketers using many of SEO tools like SEMrush
 
 Actually, this type of SEO tools, used bots, to crawl your web pages, just like <a href="https://support.google.com/webmasters/answer/182072?hl=en" rel="nofollow" target="_blank">Googlebot</a> does. 
 
-Many of people just uses this <a href="http://www.robotstxt.org/robotstxt.html" rel="nofollow" target="_blank" >robots.txt </a>in his/her site.
+Many of people just uses this <a href="/webmaster/robots-txt/">robots.txt </a>in his/her site.
 
      User-agent: Googlebot
      Disallow:      
