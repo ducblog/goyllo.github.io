@@ -2,6 +2,7 @@
 layout: page
 title: Coupons
 permalink: /coupons/
+metatags: noindex, follow
 ---
 
 <div class="square">

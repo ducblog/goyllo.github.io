@@ -2,6 +2,7 @@
 layout: directory
 title: Free Subscribe
 permalink: subscribe/
+metatags: noindex, follow
 ---
 
 <h1>Select your favourite topic from below list.</h1> 

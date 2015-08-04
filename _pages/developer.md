@@ -2,6 +2,7 @@
 layout: page
 title: Developer
 permalink: /developer/
+metatags: noindex, follow
 ---
 <div class="square">
     <h1><a href="/developer/android/">Android Developer</a></h1>

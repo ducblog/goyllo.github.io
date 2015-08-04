@@ -6,6 +6,7 @@ redirect_from:
  - /blog/
  - /google/blogger/
 permalink: /blogger/
+metatags: noindex, follow
 ---
 <div class="square">
     <h1><a href="/blogger/beginner/">Beginner Tutorials</a></h1>

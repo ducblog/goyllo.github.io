@@ -4,6 +4,7 @@ title: SEO Beginner and Advance Tutorials
 redirect_from:
  - /webmaster/seo/
 permalink: /seo/
+metatags: noindex, follow
 ---
 <div class="square">
     <h1><a href="/seo/beginner/">Beginner Tutorials</a></h1>

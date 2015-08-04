@@ -2,6 +2,7 @@
 layout: tools
 title: Goyllo Online Tools
 permalink: tools/
+metatags: noindex, follow
 ---
 
 <div class="square">
