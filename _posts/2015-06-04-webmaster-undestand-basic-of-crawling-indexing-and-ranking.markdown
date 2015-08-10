@@ -3,8 +3,9 @@ layout: post
 title:  "Understand Basic of Crawling, Indexing and Ranking"
 redirect_from:
  - /webmaster/beginner-tutorials/basic-of-crawling-indexing-and-ranking/
-categories: beginnerseo
-permalink: seo/beginner/basic-of-crawling-indexing-and-ranking/
+ - /seo/beginner/basic-of-crawling-indexing-and-ranking/
+categories: webmaster
+permalink: webmaster/basic-of-crawling-indexing-and-ranking/
 tags: 
 - seo
 description: Beginner tutorial to understand how search engine like Google, Bing and Yahoo work for SEO.

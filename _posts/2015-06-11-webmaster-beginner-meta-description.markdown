@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "How To Optimize Meta Description in your website?"
-categories: beginnerseo
+categories: webmaster
 redirect_from:
  - /webmaster/seo/beginner/optimize-meta-description/
-permalink: seo/beginner/optimize-meta-description/
+ - /seo/beginner/optimize-meta-description/
+permalink: webmaster/optimize-meta-description/
 tags: 
 - seo
 description: Learn how to add proper meta description in your website, and why Google ignore your meta description many times.

@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "How to block SEO bots using robots.txt? "
-categories: advanceseo
+categories: webmaster
 redirect_from:
  - /webmaster/seo/advance/block-seo-bots-robots-txt/
-permalink: seo/advance/block-seo-bots-robots-txt/
+ - /seo/advance/block-seo-bots-robots-txt/
+permalink: webmaster/block-seo-bots-robots-txt/
 tags: 
 - seo
 - robotstxt
