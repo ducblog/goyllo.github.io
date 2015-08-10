@@ -56,7 +56,7 @@ For example, if you don’t like Alexa bots, to crawl your website, then you can
 
 So above robots.txt say, we allowed all polite bots to crawl our website, but we don’t allow to crawl Alexa bot, in our website.
 
-But here is note that, there are many of impolite bots, which can still access, your website, so you just need to enter all the User-agent name to prevent crawling from specific bots. In this article I blocked many of  [SEO bots](/seo/advance/block-seo-bots-robots-txt/ "Block SEO Bots using robots.txt"), to crawl my website.
+But here is note that, there are many of impolite bots, which can still access, your website, so you just need to enter all the User-agent name to prevent crawling from specific bots. In this article I blocked many of  [SEO bots](/webmaster/block-seo-bots-robots-txt/ "Block SEO Bots using robots.txt"), to crawl my website.
 
 ## Let's see some FAQ on robots.txt ##
 
@@ -141,7 +141,7 @@ Well, if you are not targeting your website internationally, and useful for only
 I want to say never ever block sensitive or secret folder by using robots.txt, because you have blocked those files and folder in the eyes of the search engine not in human eyes. Many smart people, just open your robots.txt and easily can find out what you have blocked, and read out all the secret documents. So always password protect your specific directory or use .htaccess functionality to prevent access to files/folder. Also, Google said we can’t crawl password protected directory.
 
 ## Robots.txt for WordPress ##
-After researching a lot, I can say you just need to add this lines in your WordPress robots.txt. Also you can [block some of SEO bots using robots.txt](/seo/advance/block-seo-bots-robots-txt/ "Block SEO Bots") .
+After researching a lot, I can say you just need to add this lines in your WordPress robots.txt. Also you can [block some of SEO bots using robots.txt](/webmaster/block-seo-bots-robots-txt/ "Block SEO Bots") .
 
     User-agent: *
     Disallow: /?s=*
