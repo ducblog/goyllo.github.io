@@ -7,6 +7,7 @@ redirect_from:
 permalink: webmaster/add-website-to-google-webmaster-tools/
 tags: 
 - webmaster
+- gwt
 description: Begineer tutorial to add your website in Google Webmaster Tools.
 ---
 
@@ -18,7 +19,7 @@ First off go to <a href="https://www.google.com/webmasters/tools/" rel="nofollow
 
 Now, click on Add a Website/Property, and enter your website URL, like this.
 
-<img alt="Adding website on Google webmaster tools.png" src="/images/adding-website-on-google-webmaster-tools.png" height="150" title="Adding website on Google webmaster tools" width="400" /><br />
+<img alt="Adding website on Google webmaster tools.png" src="/images/adding-website-on-google-webmaster-tools.png" title="Adding website on Google webmaster tools" /><br />
 
 
 After adding, you will be redirected to the main dashboard.
@@ -28,7 +29,7 @@ Now, initially your dashboard data is empty, to get results on the dashboard, fi
 
 > ProTip: - You can also add your all website version like this, goyllo.com, www.goyllo.com, https://www.goyllo.com.  But make sure, your one URL should match with the [canonical link tag](/webmaster/canonical-link-tag/ "canonical link tag").
 
-<img alt="Google webmaster tools.png" src="/images/google-webmaster-tools-homepage.png" height="150" title="Google webmaster tools" width="700" /><br />
+<img alt="Google webmaster tools.png" src="/images/google-webmaster-tools-homepage.png" title="Google webmaster tools" /><br />
 
 Here you can see I submitted three versions of my website. You can even submit your all the subdomain separately. Each URL provides you separate dashboard.
 

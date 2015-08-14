@@ -7,7 +7,7 @@ redirect_from:
  - /seo/beginner/optimize-meta-description/
 permalink: webmaster/optimize-meta-description/
 tags: 
-- seo
+- webmaster
 description: Learn how to add proper meta description in your website, and why Google ignore your meta description many times.
 ---
 
@@ -18,17 +18,17 @@ So let’s start.
 ## What is Meta Description? ##
 Meta description is useful to describe your content in a few lines. These few lines are helpful to search engines to display snippets in search result. Like this.
 
-<img alt="Goyllo homepage Meta description" src="/images/meta-description-goyllo-homepage.jpg" height="200" title="Goyllo homepage Meta description" width="600" /><br />
+<img alt="Goyllo homepage Meta description" src="/images/meta-description-goyllo-homepage.jpg" title="Goyllo homepage Meta description"/><br />
 
 So as per above screen shot, that was my website description that appears in search result as a snippet. If you look out my site, then you will not find out that lines, because it appears in <head> tag, not in the <body> tag. You will get that line in my source codes (Click Right Mouse button and select view page source option, and look out into my head tag<head>).
 
 Let’s look out my other webpage.
 
-<img alt="Post Meta description" src="/images/my-post-description.png" height="250" title="Post Meta description" width="600" /><br />
+<img alt="Post Meta description" src="/images/my-post-description.png" title="Post Meta description" /><br />
 
 So as per above screen shot, that was my post description that appears in search result as a snippet. But this snippet was ignored many times in the search result, as per user query. Look out below screenshot.
 
-<img alt="Meta description is ignored by Google as per use query" src="/images/meta-description-ignore.png" height="200" title="Meta description is ignored by Google as per use query" width="600" /><br />
+<img alt="Meta description is ignored by Google as per use query" src="/images/meta-description-ignore.png" title="Meta description is ignored by Google as per use query" /><br />
 
 So Many times, Search Engine like Google and Bing ignore your Meta description as per user query. But it’s always helpful when someone searches your site, without typing any query. Then they will see your beautiful snippet in search engines.
 
@@ -65,6 +65,6 @@ Many blogging software and CMS (Content Management System) gives you powerful to
 > ProTip:
 > If you already submitted your site to Google Webmaster Tools, then you can go to <a href="https://www.google.com/webmasters/tools/html-suggestions" rel="nofollow" target="_blank">HTML improvements</a>, where you can find errors, like Duplicate Meta description, Long Meta description and Short Meta description. Look out below screen shot, Google found out two short Meta description on my website, and now I am going to fix it. I hope this handy tools surely helps to improve your website.
 
-<br/><img alt="Meta description improvement on Google webmaster tools.png" src="/images/meta-description-improvement-on-google-webmaster-tools.png" height="150" title="Meta description improvement on Google webmaster tools" width="700" /><br />
+<br/><img alt="Meta description improvement on Google webmaster tools.png" src="/images/meta-description-improvement-on-google-webmaster-tools.png" title="Meta description improvement on Google webmaster tools" /><br />
 
 At last I want to say don’t just focus on Meta description, it is helpful to display your site structure well in search results, but not helped you to rank higher on search result.

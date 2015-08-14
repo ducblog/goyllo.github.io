@@ -8,7 +8,7 @@ redirect_from:
  - /seo/beginner/canonical-link-tag/
 permalink: webmaster/canonical-link-tag/
 tags: 
-- seo
+- webmaster
 description: Understand How Search Engine treat canonical link tag, and How you can implement in your website.
 ---
 

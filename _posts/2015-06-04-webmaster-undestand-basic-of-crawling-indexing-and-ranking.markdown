@@ -6,8 +6,8 @@ redirect_from:
  - /seo/beginner/basic-of-crawling-indexing-and-ranking/
 categories: webmaster
 permalink: webmaster/basic-of-crawling-indexing-and-ranking/
-tags: 
-- seo
+tags:
+- webmaster 
 description: Beginner tutorial to understand how search engine like Google, Bing and Yahoo work for SEO.
 ---
 
