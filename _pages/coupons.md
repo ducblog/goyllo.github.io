@@ -6,6 +6,6 @@ metatags: noindex, follow
 ---
 
 <div class="square">
-    <h1><a href="/coupons/paytm-promo-code/">Paytm coupons and promo codes</a></h1>
-	<p>Paytm Special Offers</p>
+    <h1><a href="/coupons/hostgator/">Hostgator Coupon Code</a></h1>
+	<p>Get discount on Hosting package</p>
 </div>
