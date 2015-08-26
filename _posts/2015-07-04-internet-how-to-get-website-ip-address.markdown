@@ -4,7 +4,7 @@ title:  "How to get website IP address easily with command line tools?"
 categories: internet
 comments: true
 permalink: internet/know-website-ip/
-ogimage: images/ping-domain-website-name.png
+ogimage: /images/ping-domain-website-name.png
 tags: 
 - internet
 - website
