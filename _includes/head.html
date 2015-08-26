@@ -10,7 +10,7 @@
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@goyllocom" />
-  <meta name="twitter:title" content="<meta name="twitter:title" content="Small Island Developing States Photo Submission" />" />
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:type" content="{% if page.thumbnail %}article{% else %}website{% endif %}"/>
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   {% if page.description %}
