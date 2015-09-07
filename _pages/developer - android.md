@@ -5,6 +5,6 @@ permalink: /developer/android/
 metatags: noindex, follow
 ---
 <div class="square">
-    <h1><a href="/developer/android/beginner/">Android Beginner Tutorials</a></h1>
+    <h2><a href="/developer/android/beginner/">Android Beginner Tutorials</a></h2>
 	<p> Beginner Tutorials For Android Developer</p>
 </div>
