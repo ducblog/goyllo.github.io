@@ -6,6 +6,6 @@ metatags: noindex, follow
 ---
 
 <div class="square">
-    <h1><a href="/tools/html-encoder-decoder/">HTML Encoder Decoder</a></h1>
+    <h2><a href="/tools/html-encoder-decoder/">HTML Encoder Decoder</a></h2>
 	<p> Convert your HTML entities </p>
 </div>
