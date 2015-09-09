@@ -6,11 +6,11 @@ permalink: about/
 
 ## About me  ##
 
-My self Arjunsinh Chauhan. I completed my Computer Engineering degree from Gujarat Technological University (GTU). I like to test drive with new technology. Also, I want to be a grate Computer Scientist, yeah, I am working on my private project. I earn some few bucks from <a href="/service/">service</a> and by displaying Google AdSense ads into this website.
+My self Arjunsinh Chauhan. I completed my Computer Engineering degree from Gujarat Technological University (GTU). I like to test drive with new technology.
 
 ## About Goyllo  ##
 
-Goyllo is tech website, where you can find many tutorials, tips, <a href="/service/">service</a> and guidelines on Internet and software. Goyllo is currently running on <a href="/jekyll/jekylll-over-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted with <a href="https://pages.github.com" rel="nofollow" target="_blank">Github Pages</a>. 
+Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software. Goyllo is currently running on <a href="/jekyll/jekylll-over-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted with <a href="https://pages.github.com" rel="nofollow" target="_blank">Github Pages</a>. 
 
 ## About My English ##
 
