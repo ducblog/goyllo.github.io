@@ -6,13 +6,14 @@ redirect_from:
  - /google/blogger/beginner-tutorials/
 permalink: /blogger/beginner/
 ---
-<ul class="post-list">
+  
+ <div class="panel panel-default">
 	{% for post in site.categories.bloggerbeginnertutorials reversed %}
-      <li>	
-        <h2>
-         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>   
-        </h2>
-			<p> <i>{{post.description }}</i> </p>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="panel-heading">
+    <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
+  </div>
+  <div class="panel-body">
+{{post.description}}
+  </div>
+  {% endfor %}
+</div>

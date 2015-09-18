@@ -4,11 +4,20 @@ title: Google
 permalink: /google/
 metatags: noindex, follow
 ---
-<div class="square">
-    <h2><a href="/blogger/">Blogger</a></h2>
-	<p> Learn Google Blogger from scratch to pro.</p>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href="/blogger/">Blogger/a>
+  </div>
+	 <div class="panel-body">
+		 Learn Google Blogger from scratch to pro.
+	 </div>
 </div>
-<div class="square">
-    <h2><a href="/google/drive/">Google Drive</a></h2>
-	<p> Google Drive Tutorials.</p>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href="/google/drive/">Google Drive</a>
+  </div>
+	 <div class="panel-body">
+		Google Drive Tutorials.
+	 </div>
 </div>

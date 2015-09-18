@@ -6,13 +6,17 @@ redirect_from:
  - /webmaster/beginner-tutorials/
  - /google/webmaster-tools/
 ---
-<ul class="post-list">
-	{% for post in site.categories.webmaster reversed %}
-      <li>	
-        <h2>
-         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>   
-        </h2>
-			<p> <i>{{post.description }}</i> </p>
-      </li>
-    {% endfor %}
-</ul>
+
+<div class="panel panel-default">
+{% for post in site.categories.webmaster reversed %}
+  <div class="panel-heading">
+    <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
+  </div>
+  <div class="panel-body">
+{{post.description}}
+  </div>
+  {% endfor %}
+</div>
+	
+	
+	

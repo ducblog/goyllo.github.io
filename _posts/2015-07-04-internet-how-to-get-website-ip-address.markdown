@@ -17,11 +17,11 @@ Every website is hosted on the server machine, and using DNS to remember website
 
 First off run CMD as administrator.
 
-   <img alt="CMD run as administrator" src="/images/cmd-run-as-administrator.png" title="CMD run as administrator" />
+   <img class="img-responsive" alt="CMD run as administrator" src="/images/cmd-run-as-administrator.png" title="CMD run as administrator" />
 
 Now type this “ping www.google.com” (without quotas), so you will get the google IP address, similarly you can find any of website IP addresses easily, just by replacing www.google.com domain names to another domain like “ping www.facebook.com"
 
- <img alt="ping website domain name" src="/images/ping-domain-website-name.png" title="ping website domain name" />
+ <img class="img-responsive" alt="ping website domain name" src="/images/ping-domain-website-name.png" title="ping website domain name" />
 
 To verify it’s a original IP address, just enter the IP address in browser tab and hit enter, if you get the website homepage, then IP address of that website is right, otherwise the website owner using third party CDN (for example <a href="https://www.cloudflare.com/" rel="nofollow" target="_blank">cloudflare</a>), to hide it’s original server to prevent DOS attack.
 

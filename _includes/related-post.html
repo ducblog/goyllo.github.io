@@ -5,17 +5,16 @@
         {% for thisTag in page.tags %}
             {% if postHasSimilar == false and hasSimilar.size < 6 and post != page and tag == thisTag %}
                 {% if hasSimilar.size == 0 %}
-               <div class="RelatedPost">Related Posts</div>
-                <ul>
+               Related Posts:
+             <div class="list-group">
                 {% endif %}
-                <div class="relatedPost">
-                    <hr><a href="{{ site.url }}{{ post.url }}">{{ post.title }}
+               
+                    <a class="list-group-item" href="{{ site.url }}{{ post.url }}">{{ post.title }}
                     {% if post.series %}
                         (Series: {{ post.series }})
                     {% endif %}
-                    </a>
-					<br/>
-                </div>
+                    </a>					
+              
                 {% capture hasSimilar %}{{ hasSimilar }}*{% endcapture %}
                 {% assign postHasSimilar = true %}
             {% endif %}
@@ -23,5 +22,5 @@
     {% endfor %}
 {% endfor %}
 {% if hasSimilar.size > 0 %}
-    </ul>
+    </div>
 {% endif %}

@@ -4,8 +4,11 @@ title: Goyllo Online Tools
 permalink: tools/
 metatags: noindex, follow
 ---
-
-<div class="square">
-    <h2><a href="/tools/html-encoder-decoder/">HTML Encoder Decoder</a></h2>
-	<p> Convert your HTML entities </p>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href="/tools/html-encoder-decoder/">HTML Encoder Decoder/a>
+  </div>
+	 <div class="panel-body">
+		 Convert your HTML entities.
+	 </div>
 </div>

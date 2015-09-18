@@ -16,11 +16,11 @@ In this tutorial, I will tell you how to remove “powered by blogger” attribu
 
 - First off go to blogger template option, and click on the Edit HTML option. Look out below screenshot for better understanding.
 
-<img alt="Blogger Template - Edit HTML" src="/images/blogger-template-edit-html.png" title="Blogger Template - Edit HTML" /><br />
+<img class="img-responsive" alt="Blogger Template - Edit HTML" src="/images/blogger-template-edit-html.png" title="Blogger Template - Edit HTML" /><br />
 
 - Now Click to Jump to Widget and select Attribution widget like this,
 
-<img alt="Powered by blogger attribution widget" src="/images/blogger-attribution-widget.png" title="Powered by blogger attribution widget"/><br />
+<img class="img-responsive" alt="Powered by blogger attribution widget" src="/images/blogger-attribution-widget.png" title="Powered by blogger attribution widget"/><br />
 
 *Well, if you did not find it, then you can use the CTRL + F to find “Attribution” keyword.*
 
@@ -35,7 +35,7 @@ In this tutorial, I will tell you how to remove “powered by blogger” attribu
 
 - Now go to the layout option, and click on Attribution widget, and now you can see the removal option. So just click on it, and save your settings. I hope you will successfully remove the powered by blogger attribution widget from your blog.
 
-<img alt="Remove powered by blogger attribution widget" src="/images/remove-powered-by-blogger-attribution-widget.png" title="Remove powered by blogger attribution widget" /><br />
+<img class="img-responsive" alt="Remove powered by blogger attribution widget" src="/images/remove-powered-by-blogger-attribution-widget.png" title="Remove powered by blogger attribution widget" /><br />
 
 
 #### Why “Powered by blogger” appear again after removing it? ####

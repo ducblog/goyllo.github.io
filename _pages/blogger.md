@@ -8,19 +8,38 @@ redirect_from:
 permalink: /blogger/
 metatags: noindex, follow
 ---
-<div class="square">
-    <h2><a href="/blogger/beginner/">Beginner Tutorials</a></h2>
-	<p> Beginner tutorials to start your own blogger blog.</p>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href ="/blogger/beginner/" >Beginner Tutorials</a>
+  </div>
+  <div class="panel-body">
+    Beginner tutorials to start your own blogger blog.
+  </div>
 </div>
-<div class="square">
-    <h2><a href="/blogger/widget/">Blogger Widgets</a></h2>
-	<p> Blogger widgets and Gadgets to spice up your blog.</p>
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <a class="panel-title" href ="/blogger/widget/" >Blogger Widgets</a>
+  </div>
+  <div class="panel-body">
+    Blogger widgets and Gadgets to spice up your blog.
+  </div>
 </div>
-<div class="square">
-    <h2><a href="/blogger/seo/">Blogger SEO</a></h2>
-	<p> Optimize your blogger blog for search engines.</p>
+
+<div class="panel panel-warning">
+  <div class="panel-heading">
+    <a class="panel-title" href ="/blogger/seo/" >Blogger SEO</a>
+  </div>
+  <div class="panel-body">
+  Optimize your blogger blog for search engines.
+  </div>
 </div>
-<div class="square">
-    <h2><a href="/blogger/tricks/">Blogger Tricks</a></h2>
-	<p> Blogger Tricks and Tips.</p>
+
+<div class="panel panel-danger">
+  <div class="panel-heading">
+    <a class="panel-title" href ="/blogger/tricks/">Blogger Tricks</a>
+  </div>
+  <div class="panel-body">
+  Blogger Tricks and Tips.
+  </div>
 </div>

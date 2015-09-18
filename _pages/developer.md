@@ -4,7 +4,11 @@ title: Developer
 permalink: /developer/
 metatags: noindex, follow
 ---
-<div class="square">
-    <h2><a href="/developer/android/">Android Developer</a></h2>
-	<p> Develop your own Mobile Android App.</p>
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href="/developer/android/">Android Developer</a>
+  </div>
+	 <div class="panel-body">
+		Develop your own Mobile Android App.
+	 </div>
 </div>
