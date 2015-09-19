@@ -5,13 +5,13 @@ description: Goyllo is tech website, where you can find many tutorials, tips and
 ---
 
 <center><h2>Recent Posts</h2></center>
-<div class="panel panel-default">
 {% for post in site.posts limit:20 %}
+<div class="panel panel-default">
   <div class="panel-heading">
     <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
   </div>
   <div class="panel-body">
 {{post.description}}
   </div>
-  {% endfor %}
 </div>
+{% endfor %}

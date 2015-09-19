@@ -4,13 +4,13 @@ title: Blogging for Beginners
 permalink: /blogging/
 metatags: noindex, follow
 ---
+{% for post in site.categories.blogging reversed %}
 <div class="panel panel-default">
-	{% for post in site.categories.blogging reversed %}
   <div class="panel-heading">
     <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
   </div>
   <div class="panel-body">
 {{post.description}}
   </div>
-  {% endfor %}
 </div>
+{% endfor %}
