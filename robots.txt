@@ -1,21 +1,21 @@
-User-agent: *
-Disallow: 
-
-
-User-agent: HTTrack
-Disallow: /
 User-agent: MJ12bot
-Disallow: /     
-User-agent: SemrushBot
-Disallow: /
-User-agent: SemrushBot-SA
-Disallow: /
-User-agent: rogerbot
-Disallow:/ 
+Disallow: /  
 User-agent: dotbot
 Disallow:/ 
 User-agent: AhrefsBot
 Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: SearchmetricsBot
+Disallow: /
+User-agent: sp_auditbot
+Disallow: /
+User-agent: HTTrack
+Disallow: / 
+User-agent: rogerbot
+Disallow:/ 
 User-agent: Alexibot
 Disallow: /
 User-agent: SurveyBot
