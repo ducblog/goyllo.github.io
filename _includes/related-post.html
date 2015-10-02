@@ -9,7 +9,7 @@
              <div class="list-group">
                 {% endif %}
                
-                    <a class="list-group-item" href="{{ site.url }}{{ post.url }}">{{ post.title }}
+                    <a class="list-group-item" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
                     {% if post.series %}
                         (Series: {{ post.series }})
                     {% endif %}

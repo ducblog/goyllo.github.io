@@ -1,0 +1,17 @@
+---
+layout: directory
+title: Blogger Widgets
+redirect_from:
+ - /google/blogger/widget/
+permalink: /blogger/widget/
+---
+{% for post in site.categories.bloggerwidget reversed %}
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
+  </div>
+  <div class="panel-body">
+{{post.description}}
+  </div>
+</div>
+{% endfor %}
