@@ -2,7 +2,7 @@
 layout: page
 title:  "hostgator coupon code"
 update_date:    2015-08-03 22:44:18
-permalink: coupons/hostgator/
+permalink: /coupons/hostgator/
 ---
 
 Here, I posted working and updated coupon code for Hostgator.com site and Hostgator.in (For India)
