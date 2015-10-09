@@ -56,9 +56,14 @@ A. We are getting these commission rate from third party network.
 	Gaming
 	Media
 	Security Systems</td>
-                    <td>2%</td>
+                    <td>2.0 %</td>
                 </tr>
                 <tr>
+                    <td>Bus Tickets</td>
+                    <td>Bus Tickets</td>
+                    <td>3.0 %</td>                  
+                </tr>
+     <tr>
                     <td>Other categories</td>
                     <td>Fashion
 	Home & Kitchen
@@ -66,7 +71,7 @@ A. We are getting these commission rate from third party network.
 	Baby,Kinds & Toys
 	Books & Stationary
 	Sports & Health</td>
-                    <td>5.5%</td>                  
+                    <td>5.5 %</td>                  
                 </tr>
             </tbody>
         </table>
