@@ -24,7 +24,7 @@ permalink: /coupons/hostgator/
     </span>
 	&#187;
 	 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <meta itemprop="position" content="2" />
+      <meta itemprop="position" content="3" />
       <a itemprop="item" href="/coupons/hostgator/">
         <span itemprop="name">Hostgator</span>
       </a>
