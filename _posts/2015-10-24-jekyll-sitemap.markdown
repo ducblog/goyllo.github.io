@@ -13,7 +13,7 @@ In this post, I will tell you, how to generate an XML sitemap with plugin and wi
 
 ## Generating Jekyll sitemap with the plugin ##
 
-Just open your, config file and add this gem, and save it..
+Just open your, config file and add this gem, and save it.
 
     gems:
       - jekyll-sitemap
@@ -57,9 +57,9 @@ In the above code, I used this code  `{%raw%}{% if page.sitemap != false %}{%end
     sitemap: false
     ---
 
-So, whenever you include sitemap: false line in your front matter, you can exclude that page from your sitemap.
+So, whenever you include `sitemap: false` line in your front matter, you can exclude that page from your sitemap.
 
-Here is also not that, I did not exclude my post, but if you want, then you can use the same, if the condition in your post code, like this.
+Here is also not that, I did not exclude my post, but if you want, then you can use the same, *if condition* in your post code, like this.
 
 
 	{%raw%}
@@ -70,12 +70,12 @@ Here is also not that, I did not exclude my post, but if you want, then you can 
     {% endfor %}
 	{%endraw%}
 
-Hope it's clear your doubt to exclude Pages As well as posts from your sitemap. In general, I don’t exclude my posts in sitemap, so the first one code is perfectly fine for me.
+Hope it's clear your doubt to exclude pages as well as posts from your sitemap. In general, I don’t exclude my posts in sitemap, so the first one code is perfectly fine for me.
 
 ## Extend sitemap Functionality in Jekyll. ##
-If you already look out on the sitemap.org website, then you will see, you can use many of the tags in your sitemap, and that is helpful for search engine to crawl your content more easily. You can add any addition tags in for loops or just after the `<url>` tag.
+If you already look out on the sitemap.org website, then you will see, you can use many of the tags in your sitemap, and that is helpful for search engine to crawl your specific post and page. You can add any addition tags in *for loops* or just after the `<url>` tag.
 
-`<lastmod>` : You can use this tag, if you want to notify to search engine about, when your post is modified, so they can update your page result in the SERP. I am not using this tag, because spider, showing dates in the search result by using sitemap dates, so If my article is too old, then obviously I got less CTR (Click through rate) in SERP, because no one like to read old article. So in my sites, I always post evergreen content, that is not changed for many years, and hence I did not use dates in my post, also in the sitemap, but if you want to use, then you can use this code line just after  `<url>` tag.
+`<lastmod>` : You can use this tag, if you want to notify to search engine about, when your post is modified, so they can update your page result in the SERP. I am not using this tag, because spider, showing dates in the search result by using sitemap dates, so If my article is too old, then obviously I got less CTR (Click through rate) in SERP, because no one like to read old article. So in my website, I always post evergreen content, that is not changed for many years, and hence I did not use dates in my post, also in the sitemap, but if you want to use, then you can use this code line just after  `<url>` tag.
 
     {%raw%}<lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{%endraw%}
 
@@ -115,7 +115,7 @@ And here is front matter for a specific post or page.
 	 sitemappriority: 0.8
      ---
 
-Here is note that, you can set priority from 0.0 to 1.0 and by default the value is 0.5 i.e. if you forgot to mention above front matter for a specific post or page in Jekyll, then Search engine spider assigns default priority.
+Here is note that, you can set priority from 0.0 to 1.0 and by default the value is 0.5 i.e. if you forgot to mention above front matter for a specific post or page in Jekyll, then Search engine spider assigns default priority value.
 
 ## Final Question: Where to add a sitemap.xml file on my website or Github pages. ##
 Well, it is not necessary to add sitemap into the root directory, you can place anywhere. Just create your own secret folder, and just add the above codes on it, and save it, as sitemap.xml and you have done,  for example, www.example.com/secret/sitemap.xml.

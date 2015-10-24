@@ -6,8 +6,8 @@ redirect_from:
  - /jekyll/personal/jekylll-over-wordpress/
 permalink: jekyll/jekylll-over-wordpress/
 tags: 
-- jekyll
 - personal
+- jekyll
 description: Here, is my personal review about Jekyll, and Why I like jekyll over WordPress.
 ---
 
