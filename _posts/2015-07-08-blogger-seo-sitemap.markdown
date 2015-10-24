@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Blogger XML Sitemap : Hidden Features"
+title:  "XML Sitemap for Blogger : Hidden Features"
 categories: bloggerseo
 redirect_from:
  - /google/blogger/seo/xml-sitemap/
