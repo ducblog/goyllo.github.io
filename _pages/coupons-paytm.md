@@ -59,6 +59,30 @@ permalink: /coupons/paytm/
 
 <div class="panel-footer">
                 <div class="coupon-code">
+                    <p>Get Rs.50 cashback on Electricity Bill payments of Rs.1000 and above</p>
+                    <p>Valid on Electricity Bill Payments</p>
+                    <div id="offer5" style="display:none;"><p class="promocodecolor">Your Paytm Code: BILL50</p></div>
+                    <span class="print"><script>function mobileDivb() { document.getElementById('offer5').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDivb" onclick="mobileDivb()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid till 31st October 2015</div>
+</div>
+
+<div class="panel-footer">
+                <div class="coupon-code">
+                    <p>Get Rs.40 Cashback on Recharges and bill payments of Rs.400 and above</p>
+                    <p>Valid only for IDEA users only</p>
+                    <div id="offer6" style="display:none;"><p class="promocodecolor">Your Paytm Code: IDEA400</p></div>
+                    <span class="print"><script>function mobileDivc() { document.getElementById('offer6').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDivc" onclick="mobileDivc()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid till 27th October 2015</div>
+</div>
+
+<div class="panel-footer">
+                <div class="coupon-code">
                     <p>Get Rs.10 cashback on Recharges and Bill payments of Rs.50 and above</p>
                     <p>Not valid on AIRTEL Prepaid Users</p>
                     <div id="mobileoffer3" style="display:none;"><p class="promocodecolor">Your Paytm Code: RECH50</p></div>
@@ -69,7 +93,7 @@ permalink: /coupons/paytm/
                 <div class="exp">Valid till 23rd October 2015</div>
 </div>
 
- <div class="panel-footer">
+<div class="panel-footer">
                 <div class="coupon-code">
                     <p>Get 40Rs. Cashback on Recharges and bill payments of Rs.400 and above</p>
                     <p>Valid only for vodafone users only</p>
