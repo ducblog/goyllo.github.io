@@ -31,17 +31,7 @@ permalink: /coupons/paytm/
                 </div>
               </div>
               
- <div class="panel-footer">
-                <div class="coupon-code">
-                    <p>Get 40Rs. Cashback on Recharges and bill payments of Rs.400 and above</p>
-                    <p>Valid only for vodafone users only</p>
-                    <div id="mobileoffer1" style="display:none;"><p class="promocodecolor">Your Paytm Code: VODA400</p></div>
-                    <span class="print"><script>function mobileDiv() { document.getElementById('mobileoffer1').style.display = "block";}</script>
-                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDiv" onclick="mobileDiv()">Show Me Code </a> 	
-                    </span>
-                </div>
-                <div class="exp">Valid till 23rd October 2015</div>
-</div>
+
     
 <div class="panel-footer">
                 <div class="coupon-code">
@@ -52,7 +42,19 @@ permalink: /coupons/paytm/
                         <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDivx" onclick="mobileDivx()">Show Me Code </a> 	
                     </span>
                 </div>
-                <div class="exp">Valid till 23rd October 2015</div>
+                <div class="exp">Valid till 31st October 2015</div>
+</div>
+
+<div class="panel-footer">
+                <div class="coupon-code">
+                    <p>Get Rs.40 Cashback on Prepaid Recharges of Rs.400 and above</p>
+                    <p>Promocode is not valid for Airtel Prepaid Users</p>
+                    <div id="mobileoffer4" style="display:none;"><p class="promocodecolor">Your Paytm Code: PREPAID400</p></div>
+                    <span class="print"><script>function mobileDiva() { document.getElementById('mobileoffer4').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDiva" onclick="mobileDiva()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid till 31st October 2015</div>
 </div>
 
 <div class="panel-footer">
@@ -62,6 +64,18 @@ permalink: /coupons/paytm/
                     <div id="mobileoffer3" style="display:none;"><p class="promocodecolor">Your Paytm Code: RECH50</p></div>
                     <span class="print"><script>function mobileDivy() { document.getElementById('mobileoffer3').style.display = "block";}</script>
                         <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDivy" onclick="mobileDivy()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid till 23rd October 2015</div>
+</div>
+
+ <div class="panel-footer">
+                <div class="coupon-code">
+                    <p>Get 40Rs. Cashback on Recharges and bill payments of Rs.400 and above</p>
+                    <p>Valid only for vodafone users only</p>
+                    <div id="mobileoffer1" style="display:none;"><p class="promocodecolor">Your Paytm Code: VODA400</p></div>
+                    <span class="print"><script>function mobileDiv() { document.getElementById('mobileoffer1').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://tracking.payoom.com/SH2HS" target="_blank" id="mobileDiv" onclick="mobileDiv()">Show Me Code </a> 	
                     </span>
                 </div>
                 <div class="exp">Valid till 23rd October 2015</div>
@@ -80,7 +94,8 @@ permalink: /coupons/paytm/
               <div class="panel-footer">
                 <div class="coupon-code">
                     <p>Get ​​50% C​ash​​back​ on Bus ticket bookings</p>
-                    <p>All users can use this offers</p>
+                    <p>1- Maximum cashback is Rs.125</p>
+                    <p>2- User needs to have verified mobile number on Paytm to get cash back</p>
                     <div id="busticket1" style="display:none;"><p class="promocodecolor">Your Paytm Code: OCTBUS50</p></div>
                     <span class="print"><script>function busDiv() { document.getElementById('busticket1').style.display = "block";}</script>
                         <a class="btn btn-success btn-sm" rel="nofollow" href="https://paytm.com/bus-tickets" target="_blank" id="busDiv" onclick="busDiv()">Show Me Code </a> 	
