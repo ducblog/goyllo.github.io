@@ -26,8 +26,8 @@ permalink: /coupons/paytm/
 
               <div class="panel-heading" id="head">
                 <div class="panel-title" id="title">
-                    <span class="hidden-xs">Mobile Recharge and Bill Payments Offers</span>
-                    <span class="visible-xs">Mobile Recharge and Bill Payments Offers</span>
+                    <h2 class="hidden-xs">Mobile Recharge and Bill Payments Offers</h2>
+                    <h2 class="visible-xs">Mobile Recharge and Bill Payments Offers</h2>
                 </div>
               </div>
               
@@ -86,8 +86,8 @@ permalink: /coupons/paytm/
 <div class="panel panel-default coupon" id="busoffer">
               <div class="panel-heading" id="head">
                 <div class="panel-title" id="title">
-                <span class="hidden-xs">Bus Tickets Offers</span>
-                <span class="visible-xs">Bus Tickets Offers</span>
+				<h2 class="hidden-xs">Bus Tickets Offers</h2>
+                <h2 class="visible-xs">Bus Tickets Offers</h2>
                 </div>
               </div>
               
