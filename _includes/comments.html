@@ -1,10 +1,12 @@
 
-<a class="btn btn-primary btn-lg" href="#" onclick="disqus();return false;" role="button" rel="nofollow">Add/Load Comments</a>
+<div id="disqus_thread">
+  <a class="btn btn-primary btn-lg" href="#" onclick="disqus();return false;" role="button" rel="nofollow">Add/Load Comments</a>
+</div>
 
 <script type="text/javascript">
-var disqus_shortname = "goyllo"; 
-var disqus_loaded = false;
+var disqus_shortname = "goyllo";
 
+var disqus_loaded = false;
 function disqus() {
  
   if (!disqus_loaded)  {
@@ -20,4 +22,5 @@ function disqus() {
     .appendChild(e);
   }
 } 
+ 
 </script>
