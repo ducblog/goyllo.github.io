@@ -73,7 +73,7 @@ Here is also not that, I did not exclude my post, but if you want, then you can 
 Hope it's clear your doubt to exclude pages as well as posts from your sitemap. In general, I don’t exclude my posts in sitemap, so the first one code is perfectly fine for me.
 
 ## Extend sitemap Functionality in Jekyll. ##
-If you already look out on the sitemap.org website, then you will see, you can use many of the tags in your sitemap, and that is helpful for search engine to crawl your specific post and page. You can add any addition tags in *for loops* or just after the `<url>` tag.
+If you already look out on the sitemaps.org website, then you will see, you can use many of the tags in your sitemap, and that is helpful for search engine to crawl your specific post and page. You can add any addition tags in *for loops* or just after the `<url>` tag.
 
 `<lastmod>` : You can use this tag, if you want to notify to search engine about, when your post is modified, so they can update your page result in the SERP. I am not using this tag, because spider, showing dates in the search result by using sitemap dates, so If my article is too old, then obviously I got less CTR (Click through rate) in SERP, because no one like to read old article. So in my website, I always post evergreen content, that is not changed for many years, and hence I did not use dates in my post, also in the sitemap, but if you want to use, then you can use this code line just after  `<url>` tag.
 
