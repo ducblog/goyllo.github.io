@@ -8,6 +8,8 @@ permalink: blogger/beginner/blog-delete-reason/
 tags: 
 - blogger
 description: Here is some tips that you should follow, otherwise your blogger blog will be delete automatically.
+redirect_to:
+  - https://blogger.goyllo.com/2015/10/blog-delete-reason.html
 ---
 
 Many of the beginner and spammer, always ask this question on the Google Blogger help forum, *"why my blog is deleted by Blogger team"*. Actually, they will notify you, in your email address, whenever they delete your blogger blog. And they deleted your blog because you did not follow their <a href="https://support.google.com/blogger/answer/41935?hl=en" rel="nofollow" target="_blank"> TOS </a>and <a href="http://www.blogger.com/content.g?hl=en" rel="nofollow" target="_blank">Policy</a>. So here I post some of basic reason of deletion of blogger blog.

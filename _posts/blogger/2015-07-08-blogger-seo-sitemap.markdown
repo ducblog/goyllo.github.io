@@ -2,14 +2,13 @@
 layout: post
 title:  "XML Sitemap for Blogger : Hidden Features"
 categories: bloggerseo
-redirect_from:
- - /google/blogger/seo/xml-sitemap/
- - /2015/04/about-blogger-sitemap.html
 permalink: blogger/seo/xml-sitemap/
 tags: 
 - blogger
 - seo
 description: Learn all about blogger sitemap, and how to find your blog sitemap easily.
+redirect_to:
+  - https://blogger.goyllo.com/2015/10/xml-sitemap.html
 ---
 
 A blogger creates a sitemap automatically whenever you published any content on your blog post or page. In other words, you cannot change your sitemap, or you cannot add or host blogger sitemap, there is no any customization facility given by blogger.

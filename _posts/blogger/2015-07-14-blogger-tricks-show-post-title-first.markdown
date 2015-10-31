@@ -9,6 +9,8 @@ tags:
 - blogger
 - bloggertricks
 description: Step by step guide to display your blog post name first then blog name in search results.
+redirect_to:
+  - https://blogger.goyllo.com/2015/10/show-post-title-first-before-blog-title.html
 ---
 
 By default, blogger shows the blog title name first, then your post title name i.e. Blog name: post title. But if your blog name is too long, then Google surfers, don’t see your full post title name, because Google only shows the first 66 characters in search snippets, other characters will automatically ignore. So you have only two options, first one is, make your blog name or title shot, or use the below blogger technique to show your post title name first, then your blog name.

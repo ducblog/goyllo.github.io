@@ -9,7 +9,9 @@ categories: bloggerbeginnertutorials
 permalink: blogger/beginner/change-url-and-name/
 tags: 
 - blogger
-description: Learn how to change your blogger blog name and blogger URL address step by step. 
+description: Learn how to change your blogger blog name and blogger URL address step by step.
+redirect_to:
+  - https://blogger.goyllo.com/2015/10/change-url-and-name.html
 ---
 
 By mistake if you created a blogger blog with a different name and BlogSpot address and later you want to edit them, then just follow below things and remember some tips at last.
