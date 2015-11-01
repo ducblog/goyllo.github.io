@@ -7,8 +7,6 @@ redirect_from:
  - /google/blogger/
 permalink: /blogger/
 metatags: noindex, follow
-redirect_to:
-  - https://blogger.goyllo.com
 ---
 <div class="panel panel-success">
   <div class="panel-heading">
