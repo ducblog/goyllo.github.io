@@ -9,8 +9,6 @@ permalink: blogger/beginner/backup-template-and-blog-posts/
 tags: 
 - blogger
 description: Step by step guide to backup your current blogger template and all blog post easily.
-redirect_to:
-  - https://blogger.goyllo.com/2015/10/backup-template-and-blog-posts.html
 ---
 
 Whenever you try to change anything in your blogger template design, then you should backup your current template, so you can revert the changes, if anything goes wrong. Also, you should weekly/daily backup your all blog post. So if by mistake some owner of your blog will delete your post, then you can restore it again. Also, many times, your post doesn't follow the <a href="http://www.blogger.com/content.g?hl=en" rel="nofollow" target="_blank">Policy</a> and <a href="https://support.google.com/blogger/answer/41935?hl=en" rel="nofollow" target="_blank">TOS</a> of blogger. So they will <a href="/blogger/beginner/blog-delete-reason/">delete your blog</a> anytime. So if you have a backup of your all blog post, then you can migrate to other [blogging platforms](/blogging/start-your-blog/#blogging-platforms). Now let’s focus on our main goal.

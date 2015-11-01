@@ -6,8 +6,6 @@ permalink: blogger/beginner/create-your-first-blog/
 description: Step by step guide to create your first free blog in Google blogger, it's so easy, and simple.
 tags: 
 - blogger
-redirect_to:
-  - https://blogger.goyllo.com/2015/10/create-your-first-blog.html
 ---
 
 Creating your first blog on blogger, it's very easy just visit blogger.com and enter your blog name, address name (URL) and any template as you like, don't worry if by mistake you choose anything’s wrong, you can easily change all the things in later.

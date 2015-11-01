@@ -7,8 +7,6 @@ tags:
 - blogger
 - bloggertricks
 description: Secret trick to find any blogger author name easily, when they hide it's name in blog posts.
-redirect_to:
-  - https://blogger.goyllo.com/2015/10/find-author-name-behind-blog.html
 ---
 
 Sometimes blogger using BlogSpot as a subdomain, so their registration details, we can’t find out from who is database, also many bloggers using the namecheap domain service, so they are getting free who is privacy, and hide their name behind the blog. Also, some of the blogger does not include their name or profile URL in the sidebar and in below post content. So in this case, it is hard to find, out who owns this blog, actually many of pro blogger, using their own profile to create an anonymous blog and hiding their profile details on the blog post. Also, some of code master remove the rel=author attribute from blogger template, so you cannot find out the name in the source code as well.
