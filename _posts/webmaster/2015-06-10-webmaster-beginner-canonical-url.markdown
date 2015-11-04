@@ -6,6 +6,7 @@ redirect_from:
  - /webmaster/seo/beginner/canonical-link-tag/
  - /webmaster/seo/beginner/canonical-url/
  - /seo/beginner/canonical-link-tag/
+ - /seo/beginner/canonical-url/
 permalink: webmaster/canonical-link-tag/
 tags: 
 - webmaster
