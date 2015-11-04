@@ -13,7 +13,7 @@ My self Arjunsinh Chauhan. I completed my Computer Engineering degree from Gujar
 
 I created this site to share my own experience with technology, life, or World. I shared anything that I Know. 
 
-Goyllo is currently running on <a href="/jekyll/jekylll-vs-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted with <a href="https://pages.github.com" rel="nofollow" target="_blank">Github Pages</a>. 
+Goyllo is currently running on <a href="/jekyll/jekyll-vs-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted with <a href="https://pages.github.com" rel="nofollow" target="_blank">Github Pages</a>. 
 
 ## About My English ##
 

@@ -36,7 +36,7 @@ Here is some list of,
 
 **5) Ghost** - I never use it, but many of people choose Ghost, because they don't like WordPress, If you are looking for a WordPress alternative then try out <a href="https://ghost.org" rel="nofollow" target="_blank">Ghost</a> platform.
 
-**6) Jekyll** - Sorry for implementing <a href="http://jekyllrb.com" rel="nofollow" target="_blank">Jekyll </a> on blogging software, but it's really more flexible than any. <a href="/jekyll/jekylll-vs-wordpress/" target="_blank">Jekyll </a> is the choice of the software developer, and specially for ruby developer.
+**6) Jekyll** - Sorry for implementing <a href="http://jekyllrb.com" rel="nofollow" target="_blank">Jekyll </a> on blogging software, but it's really more flexible than any. <a href="/jekyll/jekyll-vs-wordpress/" target="_blank">Jekyll </a> is the choice of the software developer, and specially for ruby developer.
 
 **7) Others** – I did not try out these platforms, but there are large numbers of people are using it. 
 <a href="https://medium.com/" rel="nofollow" target="_blank">Medium</a>, 
