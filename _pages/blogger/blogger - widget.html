@@ -1,9 +1,11 @@
 ---
-layout: directory
-title: Blogger Tricks
-permalink: /blogger/tricks/
+layout: bloggerpage
+title: Blogger Widgets
+redirect_from:
+ - /google/blogger/widget/
+permalink: /blogger/widget/
 ---
-{% for post in site.categories.bloggertricks reversed %}
+{% for post in site.categories.bloggerwidget reversed %}
 <div class="panel panel-default">
   <div class="panel-heading">
     <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "Don't do this, otherwise your blogger blog will be deleted"
 categories: bloggerbeginnertutorials
 redirect_from:

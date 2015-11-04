@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "How to remove powered by blogger attribution?"
 categories: bloggerwidget
 permalink: blogger/widget/remover-powered-by-blogger-attribution/

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "How to add Meta description in your blogger blog?"
 redirect_from:
  - /blogger/seo-tutorials/meta-description/

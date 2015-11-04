@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "How to backup my blogger template and all posts?"
 categories: bloggerbeginnertutorials
 redirect_from:

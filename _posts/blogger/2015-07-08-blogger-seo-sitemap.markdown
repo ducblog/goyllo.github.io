@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "XML Sitemap for Blogger : Hidden Features"
 categories: bloggerseo
 permalink: blogger/seo/xml-sitemap/

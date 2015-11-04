@@ -1,5 +1,5 @@
 ---
-layout: directory
+layout: bloggerpage
 title: Blogger
 redirect_from:
  - /p/blogger-tutorials.html

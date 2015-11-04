@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "How to show post title first before blog title in search results?"
 categories: bloggertricks
 redirect_from:

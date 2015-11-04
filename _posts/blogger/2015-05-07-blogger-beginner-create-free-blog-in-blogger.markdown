@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogger
 title:  "How to Create Free Blog in Google Blogger?"
 categories: bloggerbeginnertutorials
 permalink: blogger/beginner/create-your-first-blog/

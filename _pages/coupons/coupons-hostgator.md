@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: coupons
 title:  "hostgator coupon code"
 update_date:    2015-08-03 22:44:18
 permalink: /coupons/hostgator/
