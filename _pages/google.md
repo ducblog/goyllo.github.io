@@ -13,12 +13,3 @@ metatags: noindex, follow
 		 Learn Google Blogger from scratch to pro.
 	 </div>
 </div>
-
-<div class="panel panel-info">
-  <div class="panel-heading">
-    <a class="panel-title" href="/google/drive/">Google Drive</a>
-  </div>
-  <div class="panel-body">
-		Google Drive Tutorials.
-  </div>
-</div>
