@@ -3,6 +3,9 @@ layout: blogger
 title:  "How to Create Free Blog in Google Blogger?"
 categories: bloggerbeginnertutorials
 permalink: blogger/beginner/create-your-first-blog/
+redirect_from:
+ - /blogger/beginner-guides/create-your-first-blog/
+ - /2015/03/start-free-blog-with-google-blogger.html
 description: Step by step guide to create your first free blog in Google blogger, it's so easy, and simple.
 tags: 
 - blogger
