@@ -6,15 +6,6 @@ permalink: /coupons/paytm/
 redirect_from:
  - /coupons/paytm-promo-code/
 ---
-<div class="breadcrumb">
-<span itemscope='' itemtype='http://data-vocabulary.org/Breadcrumb'>
- <a href="/" itemprop="url"><span itemprop='title'>Goyllo</span></a></span>
-<span itemscope='' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187;
-<a href="/coupons/" itemprop="url"><span itemprop='title'>Coupons</span></a></span>
-<span itemscope='' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187;
-<a href="/coupons/paytm/" itemprop="url"><span itemprop='title'>Paytm Coupons</span></a></span> &#187; Paytm Promo Code 2015
-</div>
-
 
 <div id="quicknav">
         <ul>
