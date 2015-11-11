@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: jekyll
 title:  "Why I chose Jekyll over WordPress"
-categories: jekyll
+categories: jekyllbeginner
 redirect_from:
  - /jekyll/personal/jekylll-over-wordpress/
  - /jekyll/jekylll-over-wordpress/
-permalink: jekyll/jekyll-vs-wordpress/
+ - /jekyll/jekyll-vs-wordpress/
+permalink: jekyll/beginner/jekyll-vs-wordpress/
 tags: 
 - personal
 - jekyll

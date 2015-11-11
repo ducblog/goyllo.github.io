@@ -1,5 +1,5 @@
 ---
-layout: directory
+layout: androiddevpage
 title: Android Developer Tutorials
 permalink: /developer/android/
 metatags: noindex, follow

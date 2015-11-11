@@ -4,34 +4,6 @@ title:  "hostgator coupon code"
 update_date:    2015-08-03 22:44:18
 permalink: /coupons/hostgator/
 ---
-<div class="breadcrumb">
-<div itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
-
-    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <meta itemprop="position" content="1" />
-      <a itemprop="item" href="/">
-        <span itemprop="name">Goyllo</span>
-      </a>
-    </span> 
-
-   &#187;
-
-    <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <meta itemprop="position" content="2" />
-      <a itemprop="item" href="/coupons/">
-        <span itemprop="name">Coupons</span>
-      </a>
-    </span>
-	&#187;
-	 <span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-      <meta itemprop="position" content="3" />
-      <a itemprop="item" href="/coupons/hostgator/">
-        <span itemprop="name">Hostgator</span>
-      </a>
-    </span>
-  </div>
-  </div>
-
 Here, I posted working and updated coupon code for Hostgator.com site and Hostgator.in (For India)
 
 ## Hostgator Coupon Code List ##

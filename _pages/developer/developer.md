@@ -1,5 +1,5 @@
 ---
-layout: directory
+layout: androiddevpage
 title: Developer
 permalink: /developer/
 metatags: noindex, follow

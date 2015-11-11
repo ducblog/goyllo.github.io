@@ -1,13 +1,14 @@
 ---
-layout: post
+layout: webmaster
 title:  "Basic of canonical link tag - SEO guide"
-categories: webmaster
+categories: seo
 redirect_from:
  - /webmaster/seo/beginner/canonical-link-tag/
  - /webmaster/seo/beginner/canonical-url/
  - /seo/beginner/canonical-link-tag/
  - /seo/beginner/canonical-url/
-permalink: webmaster/canonical-link-tag/
+ - /webmaster/canonical-link-tag/
+permalink: webmaster/seo/canonical-link-tag/
 tags: 
 - webmaster
 description: Understand How Search Engine treat canonical link tag, and How you can implement in your website.

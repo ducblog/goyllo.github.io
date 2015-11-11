@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: androiddev
 title:  "What you should know to start developing android app?"
 categories: androidbeginner
 permalink: developer/android/beginner/knowledge-or-language/
