@@ -4,7 +4,7 @@ title:  "Generate jekyll XML sitemap"
 categories: jekyllseo
 permalink: jekyll/seo/sitemap-xml/
 redirect_from:
- - /jekyll/personal/jekylll-over-wordpress/
+ - /jekyll/sitemap-xml/
 description: Learn How to generate jekyll XML sitemap automatically with plugin and without plugin.
 tags: 
 - sitemap
