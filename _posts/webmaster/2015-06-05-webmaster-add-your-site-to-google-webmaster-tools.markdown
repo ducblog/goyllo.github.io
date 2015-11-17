@@ -7,6 +7,8 @@ redirect_from:
  - /webmaster/add-website-to-google-webmaster-tools/
 permalink: webmaster/guides/add-website-to-google-webmaster-tools/
 tags: 
+- google
+- addwebsite
 - webmaster
 - gwt
 description: Begineer tutorial to add your website in Google Webmaster Tools.
