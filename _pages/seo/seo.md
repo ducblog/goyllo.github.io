@@ -4,6 +4,12 @@ title: Search Engine Optimization - SEO
 permalink: /seo/
 redirect_from:
  - /webmaster/seo/
+ - /seo/beginner/
+ - /seo/advance/
+ - /webmaster/seo/beginner/
+ - /webmaster/seo/advance/
+ - /webmaster/beginner/
+ - /webmaster/guides/
 metatags: noindex, follow
 ---
 <div class="panel panel-success">
