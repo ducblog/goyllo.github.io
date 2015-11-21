@@ -8,15 +8,6 @@ body {
   /* Margin bottom by footer height */
   margin-bottom: 60px;
 }
-
-*[id]:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -75px; 
-  height: 75px; 
-  visibility: hidden; 
-}
-
 .footer {
   position: absolute;
   bottom: 0;
@@ -176,4 +167,12 @@ sup {
 
 .btn-default {
     margin-bottom: 40px;
+}
+
+*[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -75px; 
+  height: 75px; 
+  visibility: hidden; 
 }
