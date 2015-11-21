@@ -1,17 +1,24 @@
 ---
-layout: webmaster
+layout: seo
 title:  "How to block SEO bots using robots.txt? "
-categories: seo
+categories: technicalseo
 redirect_from:
  - /webmaster/seo/advance/block-seo-bots-robots-txt/
  - /seo/advance/block-seo-bots-robots-txt/
  - /webmaster/block-seo-bots-robots-txt/
-permalink: webmaster/seo/block-seo-bots-robots-txt/
+ - /webmaster/seo/block-seo-bots-robots-txt/
+permalink: seo/technical/block-seo-bots-robots-txt/
 tags: 
 - seo
 - robotstxt
 description: Learn how to block seo bots using robots txt and say bye bye to your competitors for spaying in your website.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/technical/" itemprop="url"><span title="Technical SEO" itemprop='title'>Technical SEO</span></a></span>
+</div>
 
 Hello guys, I know many of Expert Marketers using many of SEO tools like SEMrush, Market Samurai and Majestic SEO to rank higher over its competitors. But did you ever note, how these tools are working? How they get information from most of site? But surely you will get the hint from the title of this page.
 

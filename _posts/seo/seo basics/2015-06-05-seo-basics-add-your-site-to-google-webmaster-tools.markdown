@@ -1,11 +1,12 @@
 ---
-layout: webmaster
+layout: seo
 title:  "How to add your website to Google Webmaster Tools"
-categories: webmasterguides
+categories: seobasics
 redirect_from:
  - /google/webmaster-tools/add-website/
  - /webmaster/add-website-to-google-webmaster-tools/
-permalink: webmaster/guides/add-website-to-google-webmaster-tools/
+ - /webmaster/guides/add-website-to-google-webmaster-tools/
+permalink: seo/basics/add-website-to-google-webmaster-tools/
 tags: 
 - google
 - addwebsite
@@ -13,6 +14,12 @@ tags:
 - gwt
 description: Begineer tutorial to add your website in Google Webmaster Tools.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/basics/" itemprop="url"><span title="SEO Basics" itemprop='title'>SEO Basics</span></a></span>
+</div>
 
 In this beginner tutorial, I will tell you How to add your website on Google Webmaster Tool (GWT) to improve your site on Google search result by fixing errors. You will get many suggestions in Google webmaster tools, so Google spider can understand your web content more deeply.
 

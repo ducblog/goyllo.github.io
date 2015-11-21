@@ -11,6 +11,12 @@ tags:
 - jekyll
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/jekyll/" itemprop="url"><span title="Jekyll Tutorials" itemprop='title'>Jekyll Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/jekyll/seo/" itemprop="url"><span title="Jekyll SEO" itemprop='title'>Jekyll SEO</span></a></span>
+</div>
+
 In this post, I will tell you, how to generate an XML sitemap with plugin and without the plugin.
 
 ## Generating Jekyll sitemap with the plugin ##

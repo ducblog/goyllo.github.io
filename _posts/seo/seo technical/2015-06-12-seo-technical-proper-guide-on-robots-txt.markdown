@@ -1,15 +1,22 @@
 ---
-layout: webmaster
+layout: seo
 title:  "Proper Guidelines on Robots.txt with example"
-categories: webmasterguides
-permalink: webmaster/guides/robots-txt/
+categories: technicalseo
+permalink: seo/technical/robots-txt/
 redirect_from:
  - /webmaster/robots-txt/
+ - /webmaster/guides/robots-txt/
 tags: 
 - webmaster
 - robotstxt
 description: Learn how to implement correct robots.txt in your website or WordPress blog.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/technical/" itemprop="url"><span title="Technical SEO" itemprop='title'>Technical SEO</span></a></span>
+</div>
 
 Well, I am writing this post, just because you should aware all about the robots.txt, There are many of pro blogger, who does not know how to use proper robots.txt in own website, and posting wrong thing about the robots.txt. So here I am going to tell you how to implement the right Robots.txt in your website or WordPress blog.
 
@@ -29,7 +36,7 @@ Let’s say, you don’t want to block only one file from that folder, then you 
     User-agent: Googlebot
     Disallow: /files/file-name.txt
 
-So Google does not crawl that file only on your website.
+So Google does not crawl that file only on your website, but it can crawl other files from same 'files' directory.
 
 ## Where to place robots.txt ##
 

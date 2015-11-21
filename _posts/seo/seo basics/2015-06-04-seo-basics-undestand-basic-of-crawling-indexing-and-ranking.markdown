@@ -1,17 +1,24 @@
 ---
-layout: webmaster
+layout: seo
 title:  "Understand Basic of Crawling, Indexing and Ranking"
 redirect_from:
  - /webmaster/beginner-tutorials/basic-of-crawling-indexing-and-ranking/
  - /seo/beginner/basic-of-crawling-indexing-and-ranking/
  - /webmaster/seo/beginner/basic-of-crawling-indexing-and-ranking/
  - /webmaster/basic-of-crawling-indexing-and-ranking/
-categories: webmasterguides
-permalink: webmaster/guides/basic-of-crawling-indexing-and-ranking/
+ - /webmaster/guides/basic-of-crawling-indexing-and-ranking/
+categories: seobasics
+permalink: seo/basics/basic-of-crawling-indexing-and-ranking/
 tags:
 - webmaster 
 description: Beginner tutorial to understand how search engine like Google, Bing and Yahoo work for SEO.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/basics/" itemprop="url"><span title="SEO Basics" itemprop='title'>SEO Basics</span></a></span>
+</div>
 
 Google Search Engine work with these three phases.
 

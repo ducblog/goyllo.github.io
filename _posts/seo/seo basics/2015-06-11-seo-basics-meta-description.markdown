@@ -1,16 +1,23 @@
 ---
-layout: webmaster
+layout: seo
 title:  "How To Optimize Meta Description in your website?"
-categories: seo
+categories: seobasics
 redirect_from:
  - /webmaster/seo/beginner/optimize-meta-description/
  - /seo/beginner/optimize-meta-description/
  - /webmaster/optimize-meta-description/
-permalink: webmaster/seo/optimize-meta-description/
+ - /webmaster/seo/optimize-meta-description/
+permalink: seo/basics/optimize-meta-description/
 tags: 
 - webmaster
 description: Learn how to add proper meta description in your website, and why Google ignore your meta description many times.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/basics/" itemprop="url"><span title="SEO Basics" itemprop='title'>SEO Basics</span></a></span>
+</div>
 
 Welcome to this first tutorial on SEO- Search Engine Optimization. In this post I will tell you how to optimize your Meta description in the correct way. 
 

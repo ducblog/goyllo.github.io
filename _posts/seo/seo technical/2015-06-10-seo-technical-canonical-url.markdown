@@ -1,18 +1,25 @@
 ---
-layout: webmaster
+layout: seo
 title:  "Basic of canonical link tag - SEO guide"
-categories: seo
+categories: technicalseo
 redirect_from:
  - /webmaster/seo/beginner/canonical-link-tag/
  - /webmaster/seo/beginner/canonical-url/
  - /seo/beginner/canonical-link-tag/
  - /seo/beginner/canonical-url/
  - /webmaster/canonical-link-tag/
-permalink: webmaster/seo/canonical-link-tag/
+ - /webmaster/seo/canonical-link-tag/
+permalink: seo/technical/canonical-link-tag/
 tags: 
 - webmaster
 description: Understand How Search Engine treat canonical link tag, and How you can implement in your website.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/" itemprop="url"><span title="Search Engine Optimization" itemprop='title'>Search Engine Optimization</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/seo/technical/" itemprop="url"><span title="Technical SEO" itemprop='title'>Technical SEO</span></a></span>
+</div>
 
 The canonical link tag is strong hint for search engine (<a href="https://support.google.com/webmasters/answer/139066?hl=en&rd=1" rel="nofollow" target="_blank">Google</a>,<a href="http://www.ysearchblog.com/2009/02/12/fighting-duplication-adding-more-arrows-to-your-quiver/" rel="nofollow" target="_blank">Yahoo</a>) to which page link or which preferred URL we want to index in search result among all other duplicate URLs.
 
