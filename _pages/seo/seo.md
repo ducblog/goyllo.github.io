@@ -3,7 +3,6 @@ layout: seopage
 title: Search Engine Optimization - SEO
 permalink: /seo/
 redirect_from:
- - /webmaster/
  - /webmaster/seo/
 metatags: noindex, follow
 ---
