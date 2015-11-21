@@ -11,6 +11,12 @@ tags:
 description: Step by step guide to display your blog post name first then blog name in search results.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/tricks/" itemprop="url"><span title="Blogger Tricks" itemprop='title'>Blogger Tricks</span></a></span>
+</div>
+
 By default, blogger shows the blog title name first, then your post title name i.e. Blog name: post title. But if your blog name is too long, then Google surfers, don’t see your full post title name, because Google only shows the first 66 characters in search snippets, other characters will automatically ignore. So you have only two options, first one is, make your blog name or title shot, or use the below blogger technique to show your post title name first, then your blog name.
 
 ## Changing blog post title first before blog name. ##

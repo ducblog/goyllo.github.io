@@ -12,6 +12,12 @@ tags:
 description: Learn all about blogger sitemap, and how to find your blog sitemap easily.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/seo/" itemprop="url"><span title="Blogger SEO" itemprop='title'>Blogger SEO</span></a></span>
+</div>
+
 A blogger creates a sitemap automatically whenever you published any content on your blog post or page. In other words, you cannot change your sitemap, or you cannot add or host blogger sitemap, there is no any customization facility given by blogger.
 
 This one is your post sitemap 

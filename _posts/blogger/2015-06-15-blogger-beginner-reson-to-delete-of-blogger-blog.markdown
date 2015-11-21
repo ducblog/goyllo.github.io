@@ -10,6 +10,12 @@ tags:
 description: Here is some tips that you should follow, otherwise your blogger blog will be delete automatically.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/beginner/" itemprop="url"><span title="Beginner Tutorials" itemprop='title'>Beginner Tutorials</span></a></span>
+</div>
+
 Many of the beginner and spammer, always ask this question on the Google Blogger help forum, *"why my blog is deleted by Blogger team"*. Actually, they will notify you, in your email address, whenever they delete your blogger blog. And they deleted your blog because you did not follow their <a href="https://support.google.com/blogger/answer/41935?hl=en" rel="nofollow" target="_blank"> TOS </a>and <a href="http://www.blogger.com/content.g?hl=en" rel="nofollow" target="_blank">Policy</a>. So here I post some of basic reason of deletion of blogger blog.
 
 In starting, your blog does not get much traffic from anywhere. So the blogger team does not have any complaints or notice about your blog. But when you start driving more traffic from search engines or from social media or anywhere, then many of people will see your blog. If they notice, you are not using blogger platform legally, then they complaint your blog to Google. So the Blogger team manually check your blog, if they find you are misusing blogger platform, then they will delete your blog, and you have only a few chances to get it back again. Also, many times, blogs are automatically deleted for spamming reason, and they use some automation technique like bots (Googlebot). And here I will tell you what you should not use in your blogger blog, so you will be safe.

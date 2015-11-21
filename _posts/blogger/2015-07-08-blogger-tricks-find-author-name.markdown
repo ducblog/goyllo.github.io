@@ -9,6 +9,12 @@ tags:
 description: Secret trick to find any blogger author name easily, when they hide it's name in blog posts.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/tricks/" itemprop="url"><span title="Blogger Tricks" itemprop='title'>Blogger Tricks</span></a></span>
+</div>
+
 Sometimes blogger using BlogSpot as a subdomain, so their registration details, we can’t find out from who is database, also many bloggers using the namecheap domain service, so they are getting free who is privacy, and hide their name behind the blog. Also, some of the blogger does not include their name or profile URL in the sidebar and in below post content. So in this case, it is hard to find, out who owns this blog, actually many of pro blogger, using their own profile to create an anonymous blog and hiding their profile details on the blog post. Also, some of code master remove the rel=author attribute from blogger template, so you cannot find out the name in the source code as well.
 
 Many of blogger, already know that blogger does not give you more control in our blog for example, in blogger sitemap, permalink structure, and ATOM feed :) so blogger can’t edit it. So, in this case we will use an atom feed to find out who is posting this stuff.

@@ -11,6 +11,12 @@ tags:
 description: Step by step guide to backup your current blogger template and all blog post easily.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/beginner/" itemprop="url"><span title="Beginner Tutorials" itemprop='title'>Beginner Tutorials</span></a></span>
+</div>
+
 Whenever you try to change anything in your blogger template design, then you should backup your current template, so you can revert the changes, if anything goes wrong. Also, you should weekly/daily backup your all blog post. So if by mistake some owner of your blog will delete your post, then you can restore it again. Also, many times, your post doesn't follow the <a href="http://www.blogger.com/content.g?hl=en" rel="nofollow" target="_blank">Policy</a> and <a href="https://support.google.com/blogger/answer/41935?hl=en" rel="nofollow" target="_blank">TOS</a> of blogger. So they will <a href="/blogger/beginner/blog-delete-reason/">delete your blog</a> anytime. So if you have a backup of your all blog post, then you can migrate to other [blogging platforms](/blogging/start-your-blog/#blogging-platforms). Now let’s focus on our main goal.
 
 ## Backup your blogger template. ##

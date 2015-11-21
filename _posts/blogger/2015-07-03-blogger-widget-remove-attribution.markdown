@@ -11,6 +11,12 @@ tags:
 description: Step by step guide to remove powered by blogger attribution from your blog.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/widget/" itemprop="url"><span title="Blogger Widget" itemprop='title'>Blogger Widget</span></a></span>
+</div>
+
 In this tutorial, I will tell you how to remove “powered by blogger” attribution widget/gadget that appear in the blogger footer. As per my suggestion, you should not remove the “powered by blogger” attribution, keep the credit link as it is, but if you really want to remove it, then go ahead, don’t worry your blogger blog will not remove by Google.
 
 ## Steps to remove Powered by blogger attribution.##

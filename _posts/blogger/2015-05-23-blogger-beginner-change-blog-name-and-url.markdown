@@ -14,6 +14,12 @@ tags:
 description: Learn how to change your blogger blog name and blogger URL address step by step. 
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/beginner/" itemprop="url"><span title="Beginner Tutorials" itemprop='title'>Beginner Tutorials</span></a></span>
+</div>
+
 By mistake if you created a blogger blog with a different name and BlogSpot address and later you want to edit them, then just follow below things and remember some tips at last.
 
 <h3>Steps to edit Blogger/BlogSpot Name and URL Address.</h3>
