@@ -2,7 +2,7 @@ Related Post:
 <div class="list-group">
 {% assign listed_posts_urls = page.url | split: ' ' %}
 {% for tag in page.tags %}
-  {% for mypost in site.tags[tag] %}
+  {% for mypost in site.tags[tag] limit:10 %}
     {% if listed_posts_urls contains mypost.url %}
     {% else %}
         <a class="list-group-item" href="{{ mypost.url }}">{{ mypost.title }}</a>

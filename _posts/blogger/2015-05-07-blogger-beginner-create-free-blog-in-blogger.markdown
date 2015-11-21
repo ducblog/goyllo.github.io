@@ -1,6 +1,6 @@
 ---
 layout: blogger
-title:  "How to Create Free Blog in Google Blogger?"
+title:  "How To Create Free Blog in Google Blogger?"
 redirect_from:
  - /blogger/beginner-tutorials/create-your-first-blog/
  - /blogger/tutorials/create-free-blog-in-blogger
@@ -13,6 +13,11 @@ description: Step by step guide to create your first free blog in Google blogger
 tags: 
 - blogger
 ---
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/beginner/" itemprop="url"><span title="Beginner Tutorials" itemprop='title'>Beginner Tutorials</span></a></span>
+</div>
 
 Creating your first blog on blogger, it's very easy just visit blogger.com and enter your blog name, address name (URL) and any template as you like, don't worry if by mistake you choose anything’s wrong, you can easily change all the things in later.
 

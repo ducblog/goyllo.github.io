@@ -10,7 +10,7 @@ tags:
 - googleanalytics
 ---
 
-Here is How I added my first website to Google Analytics. I also want to say, in this post, I will not show, what you can track with Google analytics, because it is beyond this post. OK?, So let’s start it.
+Here is How I added my first website to Google Analytics. I also want to say, in this post, I will not show you, what you can track with Google analytics, because it is beyond this post. OK?, So let’s start it.
 
 ## Steps to Add your website to Google Analytics. ##
 

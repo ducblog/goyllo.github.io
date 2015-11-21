@@ -1,6 +1,6 @@
 ---
 layout: blogger
-title:  "How to backup my blogger template and all posts?"
+title:  "How To Backup My Blogger Template and All Blog Posts?"
 categories: bloggerbeginnertutorials
 redirect_from:
  - /google/blogger/beginner-tutorials/backup-template-and-blog-posts/

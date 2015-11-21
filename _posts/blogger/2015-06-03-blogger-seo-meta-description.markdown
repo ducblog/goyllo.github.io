@@ -1,6 +1,6 @@
 ---
 layout: blogger
-title:  "How to add Meta description in your blogger blog?"
+title:  "How To Add Meta description In Your Blogger Blog?"
 redirect_from:
  - /blogger/seo-tutorials/meta-description/
  - /google/blogger/seo/meta-description/

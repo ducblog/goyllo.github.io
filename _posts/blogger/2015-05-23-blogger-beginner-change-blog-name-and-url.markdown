@@ -1,6 +1,6 @@
 ---
 layout: blogger
-title:  "How to change my blog name and it's URL address?"
+title:  "How To Change My Blog Name And It's URL Address?"
 redirect_from:
  - /blogger/beginner-tutorials/change-url-and-name/
  - /blogger/tutorials/change-url-and-name/
