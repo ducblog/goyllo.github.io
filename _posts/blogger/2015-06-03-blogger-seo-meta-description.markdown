@@ -26,7 +26,7 @@ First off go to setting < search preference < Meta tags < Enable search descript
 
 Click on yes and enter your blog description, like this.
 
-<img class="img-responsive" alt="Adding meta description in Blogger homepage" src="/images/add-blog-description-in-blogger.jpg" title="Adding meta description in Blogger homepage" /><br />
+<img class="img-responsive" alt="Adding meta description in Blogger homepage" src="{{ site.imgurl }}/add-blog-description-in-blogger.jpg" title="Adding meta description in Blogger homepage" /><br />
 
 <p>After adding your own blog description, click on save changes and wait for a few days. Then search your blog on Google, you will see the Meta description there. That's behave on search result as a snippet.</p>
 
