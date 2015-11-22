@@ -108,9 +108,9 @@ Similarly, if you think your website is not targeting internationally, then you 
 ### Why Google index my some of pages, which I blocked in robots.txt? ##
 Normally, when internal or external web page, pointing to your blocked resources through hyperlinks, then Google go for crawling, but you have blocked it by using robots.txt, So they just provide a simple snippet like this.
 
-<img class="img-responsive" alt="Google Analytics block crawling" src="/images/Google-analytics-block-crawling.png" title="Google Analytics block crawling" />
+<img class="img-responsive" alt="Google Analytics block crawling" src="{{ site.imgurl }}/Google-analytics-block-crawling.png" title="Google Analytics block crawling" />
 
-So, if you did not want to index at all, then just use a  <a href="https://support.google.com/webmasters/answer/93710?hl=en" rel="nofollow" target="_blank">noindex</a> tag in your specific page. This is the most preferred solution for any webpage. If you notice that, I use noindex, tag in my /images/ directory, I did not block it in my robots.txt. And I also recommended to do the same for similar directory.
+So, if you did not want to index at all, then just use a  <a href="https://support.google.com/webmasters/answer/93710?hl=en" rel="nofollow" target="_blank">noindex</a> tag in your specific page. This is the most preferred solution for any webpage. If you notice that, I use noindex, tag in my {{ site.imgurl }}/ directory, I did not block it in my robots.txt. And I also recommended to do the same for similar directory.
 
 ### I want to block only pdf files, not all the things, How to do? ###
 

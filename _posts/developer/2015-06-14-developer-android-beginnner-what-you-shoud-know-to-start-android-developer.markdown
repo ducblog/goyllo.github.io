@@ -8,6 +8,13 @@ tags:
 description: Which language and knowledge you should know to start developing android app.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/developer/" itemprop="url"><span title="Developer" itemprop='title'>Developer</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/developer/android/" itemprop="url"><span title="Android Developer" itemprop='title'>Android Developer</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/developer/android/beginner/" itemprop="url"><span title="Beginner Tutorials" itemprop='title'>Beginner Tutorials</span></a></span>
+</div>
+
 Welcome to this initial tutorial on developing android app from scratch. Here I posted some basic requirement to start out to develop your own Android app.
 
 **OOP concept**: - Many of people say you should know Java to develop an Android App, But if you know any <a href="https://en.wikipedia.org/?title=Object-oriented_programming" rel="nofollow" target="_blank">OOP</a> (**Object Oriented Programming**) concept in any language, then you are ready to develop an Android App.  The Java language is useful because most of the <a href="http://developer.android.com/reference/packages.html" rel="nofollow" target="_blank">Android API</a> is created under the Java concept, so it will surely help to you understand the Android Developer API easily. Also, they are gives you solid documents on every API.  So you can learn it from scratch.

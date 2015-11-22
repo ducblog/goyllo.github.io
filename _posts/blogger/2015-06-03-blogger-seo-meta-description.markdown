@@ -34,15 +34,6 @@ Click on yes and enter your blog description, like this.
 
 <p>After enabling Meta description from the first step, you have the choice to add Meta description to a specific blog post. Just write any post, you will see the Search description Box in right side, like this.</p>
 
-<img class="img-responsive" alt="Adding meta description to every blog post" src="/images/add-meta-description-to-individual-blog-post.jpg" title="Adding meta description to every blog post" /><br />
+<img class="img-responsive" alt="Adding meta description to every blog post" src="{{ site.imgurl }}/add-meta-description-to-individual-blog-post.jpg" title="Adding meta description to every blog post" /><br />
 
 Simply enter your unique summary of post, and click on Done.
-
-
-
-
-
-
-
-
-

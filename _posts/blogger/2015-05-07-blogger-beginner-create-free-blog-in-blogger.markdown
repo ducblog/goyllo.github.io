@@ -13,6 +13,7 @@ description: Step by step guide to create your first free blog in Google blogger
 tags: 
 - blogger
 ---
+
 <div class="breadcrumb">
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/" itemprop="url"><span title="Blogger Tutorials" itemprop='title'>Blogger Tutorials</span></a></span>

@@ -16,11 +16,11 @@ Watermarking multiple pictures, images and photos, it’s very easy, you just ne
 
 1. First of <a href="http://www.xnview.com/en/xnconvert/" rel="nofollow" target="_blank">Download XnConvert</a> software (it is available for Windows, Mac, and Linux for both 32-bit and 64-bit editions). It's free and very fast.
 
-2. After installation complete, click on add files. Here we selected only two images, but you can select as many as you like.<br/><img alt="Add Multiple Photos To Watermark" src="/images/Add-Multiple-Photos-To-Watermark.png" class="img-responsive"  title="Add Multiple Photos To Watermark" />
+2. After installation complete, click on add files. Here we selected only two images, but you can select as many as you like.<br/><img alt="Add Multiple Photos To Watermark" src="{{ site.imgurl }}/Add-Multiple-Photos-To-Watermark.png" class="img-responsive"  title="Add Multiple Photos To Watermark" />
 
-3. Now, go to action > image > watermark. Refer below screenshot for better understanding.<br/><img alt="XnConvert Watermark Multiple photos" src="/images/XnConvert-Watermark-Multiple-photos.png" class="img-responsive" title="XnConvert Watermark Multiple photos" />
+3. Now, go to action > image > watermark. Refer below screenshot for better understanding.<br/><img alt="XnConvert Watermark Multiple photos" src="{{ site.imgurl }}/XnConvert-Watermark-Multiple-photos.png" class="img-responsive" title="XnConvert Watermark Multiple photos" />
 
-4. Now if you want to add your own watermark image in photos, then you can add its source, and if you like to add only watermark text, then you can select another option, like this.  <br/><img alt="Add watermark Images and text in your photos" src="/images/Add-watermark-Images-and-text-in-your-photos.png" class="img-responsive"  title="Add watermark Images and text in your photos" />
+4. Now if you want to add your own watermark image in photos, then you can add its source, and if you like to add only watermark text, then you can select another option, like this.  <br/><img alt="Add watermark Images and text in your photos" src="{{ site.imgurl }}/Add-watermark-Images-and-text-in-your-photos.png" class="img-responsive"  title="Add watermark Images and text in your photos" />
 
 5. Now just click on convert and, wait only a few seconds, and you have done. 
 
