@@ -22,9 +22,17 @@ layout: null
 				  <article class="post-content">
 					{{ content }}
 				  </article>
-				   {% include ads.html %}<br/>
+					<div class="visible-xs">
+						{% include mobileads.html %}
+				    <div><br/>
 				   {% include related-post.html %}
-				   <center>{% include comments.html %}</center><br/>
+				   <div class="visible-xs">
+						{% include mobileads.html %}
+				    <div><
+				   <center>{% include comments.html %}</center>
+				   <div class="visible-xs">
+						{% include mobileads.html %}
+				    <div><<br/>
 				</div>
             </section>
 			
