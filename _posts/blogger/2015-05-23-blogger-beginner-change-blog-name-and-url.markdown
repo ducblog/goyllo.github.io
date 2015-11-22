@@ -30,7 +30,7 @@ Click on setting then go to basic option.
 
 Now just edit your name and its URL address as per below screenshot.
 
-<img class="img-responsive" alt="Changing Blogger Name and BlogSpot URL Address" src="/images/Changing-Blogger-name-and-BlogSpot-URL-address.png" title="Changing Blogger Name and BlogSpot URL Address"/><br />
+<img class="img-responsive" alt="Changing Blogger Name and BlogSpot URL Address" src="{{ site.imgurl }}/Changing-Blogger-name-and-BlogSpot-URL-address.png" title="Changing Blogger Name and BlogSpot URL Address"/><br />
 
 <h3>Some tips while modifying blogger/BlogSpot address.</h3>
 Well, if you already made own blog and posted many things in your blog, then Google automatically index your post in search results. To clarify just open Google and type your blog address like this “Site: goyllo.blogspot.com” without the quotes (Don’t forgot to change Goyllo to your name). Then there you will see your posted content.
