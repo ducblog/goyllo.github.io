@@ -18,7 +18,7 @@ description: Learn how to add proper meta description in your blogger homepage a
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/blogger/seo/" itemprop="url"><span title="Blogger SEO" itemprop='title'>Blogger SEO</span></a></span>
 </div>
 
-In this post, I will show you how I added Meta description to my blogger blog and every post. It's useful for search engines like Google, Yahoo, and Bing etc. If you didn't know anything about it. Then please look out on [*optimize meta description in your website*](/webmaster/seo/optimize-meta-description/) guide.
+In this post, I will show you how I added Meta description to my blogger blog and every post. It's useful for search engines like Google, Yahoo, and Bing etc. If you didn't know anything about it. Then please look out on [*optimize meta description in your website*](/seo/basics/optimize-meta-description/) guide.
 
 ### 1) Set Meta description to blogger homepage. ###
 
