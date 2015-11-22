@@ -46,7 +46,7 @@ Well, by following above steps, your new post will show something like this blog
 
 **Useful for many blog posts: It will take some time, may be a few days or months.**
 
-I hope you already <a href="/webmaster/guides/add-website-to-google-webmaster-tools/">submitted your blog/website to Google Webmaster Tools</a>, Now just fetch your blog URL to <a href="https://www.google.com/webmasters/tools/googlebot-fetch" rel="nofollow" target="_blank">Google webmaster fetch Tools</a> and submit it to index. In a few days your all old blog post will updated in search result.
+I hope you already <a href="/seo/basics/add-website-to-google-webmaster-tools/">submitted your blog/website to Google Webmaster Tools</a>, Now just fetch your blog URL to <a href="https://www.google.com/webmasters/tools/googlebot-fetch" rel="nofollow" target="_blank">Google webmaster fetch Tools</a> and submit it to index. In a few days your all old blog post will updated in search result.
 
 **Useful for few blog posts: Instant result in fewer hours.**
 
