@@ -22,9 +22,9 @@ description: Learn how to block seo bots using robots txt and say bye bye to you
 
 Hello guys, I know many of Expert Marketers using many of SEO tools like SEMrush, Market Samurai and Majestic SEO to rank higher over its competitors. But did you ever note, how these tools are working? How they get information from most of site? But surely you will get the hint from the title of this page.
 
-Actually, this type of SEO tools, used bots, to crawl your web pages, just like <a href="https://support.google.com/webmasters/answer/182072?hl=en" rel="nofollow" target="_blank">Googlebot</a> does. 
+Actually, this type of SEO tools, used bots, to crawl your web pages, just like <a href="https://support.google.com/webmasters/answer/182072?hl=en" rel="nofollow" target="_blank">Googlebot</a> does. Please refer this article to know more about [Robots.txt](/seo/technical/robots-txt/ "Robots.txt")
 
-Many of people just uses this <a href="/webmaster/guides/robots-txt/">robots.txt </a>in his/her site.
+Many of people just uses this robots.txt in his/her site.
 
      User-agent: Googlebot
      Disallow:      
