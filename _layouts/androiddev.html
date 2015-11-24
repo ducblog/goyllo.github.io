@@ -11,7 +11,7 @@ layout: null
 		<div class ="content row">
 	
 			<section class="main col col-lg-2">
-			{% include ads.html %}
+			
 			</section>
 			
 			<section class="main col col-lg-7">
@@ -22,15 +22,17 @@ layout: null
 				  <article class="post-content">
 					{{ content }}
 				  </article>
-				   {% include ads.html %}<br/>
-				   {% include related-post.html %}
+				  {% include ResonsiveTextAds.html %}
+				  {% include related-post.html %}
+				  {% include ResonsiveTextAds.html %}<br/>
 				   <center>{% include comments.html %}</center><br/>
 				</div>
             </section>
 			
 			<section class="sidebar col col-lg-3">
-			{% include ads.html %}
+			{% include ResonsiveTextAds.html %}
 			</section>
+			
 		</div>
 	</section>
 				
