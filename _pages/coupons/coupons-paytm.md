@@ -1,7 +1,6 @@
 ---
 layout: coupons
 title:  "Paytm Coupon code and Special Cashback Offers"
-update_date:    2015-08-03 22:44:18
 permalink: /coupons/paytm/
 redirect_from:
  - /coupons/paytm-promo-code/

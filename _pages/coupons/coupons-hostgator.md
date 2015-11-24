@@ -1,23 +1,37 @@
 ---
 layout: coupons
-title:  "hostgator coupon code"
-update_date:    2015-08-03 22:44:18
+title:  "Hostgator Coupons Codes"
 permalink: /coupons/hostgator/
 ---
-Here, I posted working and updated coupon code for Hostgator.com site and Hostgator.in (For India)
 
-## Hostgator Coupon Code List ##
-
-- [Hostgator $9.94 OFF Coupon code](#hostgator-994-off-coupon-code "Hostgator $9.94 OFF Coupon code")
-- [Hostgator 25% OFF Coupon code](#hostgator-25-off-coupon-code "Hostgator 25% OFF Coupon code")
-<hr/>
-
-### Hostgator $9.94 OFF Coupon code ###
-
-To get $9.94 OFF on any purchase, like Domain or Hosting, then use this code to get discount - **ghostgator994**
-
-<hr/>
-
-### Hostgator 25% OFF Coupon code ###
-
-To get 25% OFF on any purchase, like Domain or Hosting, then use this code to get discount - **ghostgator25**
+<div class="panel panel-default coupon" id="busoffer">
+              <div class="panel-heading" id="head">
+                <div class="panel-title" id="title">
+				<h2 class="hidden-xs">Hostgator Coupons</h2>
+                <h2 class="visible-xs">Hostgator Coupons</h2>
+                </div>
+              </div>
+              
+              <div class="panel-footer">
+                <div class="coupon-code">
+                    <p>Get ​​$9.94 OFF on Domains and Hosting Purchase.</p>
+                    <div id="hostgator1" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: ghostgator994</p></div>
+                    <span class="print"><script>function hostgatordivx() { document.getElementById('hostgator1').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivx" onclick="hostgatordivx()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid All Time</div>
+              </div> 
+			  
+			  <div class="panel-footer">
+                <div class="coupon-code">
+                    <p>Get ​​25% OFF on Domains and Hosting Purchase.</p>
+                    <div id="hostgator2" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: ghostgator25</p></div>
+                    <span class="print"><script>function hostgatordivy() { document.getElementById('hostgator2').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivy" onclick="hostgatordivy()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">Valid All Time</div>
+              </div> 
+			   
+</div>
