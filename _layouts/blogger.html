@@ -10,8 +10,20 @@ layout: null
 	<section class="container">
 		<div class ="content row">
 		
+		
 			<section class="main col col-lg-2 visible-lg">
-			{% include ads.html %}
+			<div class="form-group visible-lg">
+			<div class="span16 well">
+			<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Goyllo-Blogger', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+			<p>Get Only Blogger Related Posts
+			In Your Inbox. </p>
+			<p><input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your@email.com" name="email"/></p>
+			<input type="hidden" value="Goyllo" name="uri"/>
+			<input type="hidden" name="loc" value="en_US"/>
+			<input type="submit" class="btn btn-default" value="Subscribe Me" />
+			</form>
+			</div>
+			</div>
 			</section>
 			
 			<section class="main col col-lg-7">
@@ -29,18 +41,7 @@ layout: null
             </section>
 			
 			<section class="sidebar col col-lg-3">
-			<div class="form-group visible-lg">
-			<div class="span16 well">
-			<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=Goyllo-Blogger', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-			<p>Get Only Blogger Related Posts
-			In Your Inbox. </p>
-			<p><input type="email" class="form-control" id="exampleInputEmail1" placeholder="Your@email.com" name="email"/></p>
-			<input type="hidden" value="Goyllo" name="uri"/>
-			<input type="hidden" name="loc" value="en_US"/>
-			<input type="submit" class="btn btn-default" value="Subscribe Me" />
-			</form>
-			</div>
-			</div>
+
 			{% include ResonsiveTextAds.html %}
 			</section>
 		</div>
