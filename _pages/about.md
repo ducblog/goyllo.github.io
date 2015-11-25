@@ -19,6 +19,6 @@ Goyllo is currently running on <a href="/jekyll/jekyll-vs-wordpress/" target="_b
 
 English is not my native language, so in most articles you will find out many grammatical errors and mismatch words in a sentence, but I will try my best to improve all articles, it is great for me, if you find any mistake and report to me.
 
-Contact email - Arjun@goyllo.com
+Contact email - Arjun@goyllo.com OR Arjunsinh.chauhan4@gmail.com
 
 
