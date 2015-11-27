@@ -50,7 +50,7 @@ permalink: /coupons/hostgator/
               <div class="panel-footer">
                 <div class="coupon-code">
                     <p> 65% Off In All new Hosting plus $5.99 .com and.net Domains</p>
-                    <div id="hostgatorbf" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: ghostgator994</p></div>
+                    <div id="hostgatorbf" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: BF2015</p></div>
                     <span class="print"><script>function hostgatordivbf() { document.getElementById('hostgatorbf').style.display = "block";}</script>
                         <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivbf" onclick="hostgatordivbf()">Show Me Code </a> 	
                     </span>
