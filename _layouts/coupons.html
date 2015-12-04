@@ -11,10 +11,9 @@ layout: null
 		<div class ="content row">
 	
 			<section class="main col col-lg-2">
-			{% include ads.html %}
 			</section>
 			
-			<section class="main col col-lg-7">
+			<section class="main col col-lg-8">
 				 <div class="post">
 				  <header class="post-header">
 					<h1 class="post-title">{{ page.title }}</h1>
@@ -22,13 +21,11 @@ layout: null
 				  <article class="post-content">
 					{{ content }}
 				  </article>
-				   {% include ads.html %}<br/>
 				   <center>{% include comments.html %}</center><br/>
 				</div>
             </section>
 			
-			<section class="sidebar col col-lg-3">
-			{% include ads.html %}
+			<section class="sidebar col col-lg-2">
 			</section>
 		</div>
 	</section>
