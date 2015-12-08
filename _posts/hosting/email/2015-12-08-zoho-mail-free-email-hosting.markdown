@@ -3,7 +3,7 @@ layout: post
 title:  "How To Create Free Business Email With Zoho Mail?"
 categories: emailhosting
 permalink: hosting/email/free-zoho-mail/
-description: Step by step tutorial to create your free business email with zoho email hosting .
+description: Step by step tutorial to create your free business email with Zoho email hosting.
 tags: 
 - emailhosting
 - freehosting
