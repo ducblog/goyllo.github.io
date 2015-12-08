@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: hosting
 title:  "How To Create Free Business Email With Zoho Mail?"
 categories: emailhosting
 permalink: hosting/email/free-zoho-mail/
