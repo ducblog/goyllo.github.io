@@ -1,7 +1,9 @@
 ---
 layout: seo
 title:  "How to add your website to Google Webmaster Tools"
-categories: seobasics
+categories:
+- seobasics
+- seo
 redirect_from:
  - /google/webmaster-tools/add-website/
  - /webmaster/add-website-to-google-webmaster-tools/

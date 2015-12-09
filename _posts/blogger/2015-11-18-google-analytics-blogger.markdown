@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "How To Add Google Analytics Code To Blogger?"
-categories: bloggerbeginnertutorials
+categories:
+- bloggerbeginnertutorials
+- blogger
 permalink: blogger/beginner/add-google-analytics-code/
 description: Step by step guide to add Google analytics tracking code in your blogger blog.
 tags: 

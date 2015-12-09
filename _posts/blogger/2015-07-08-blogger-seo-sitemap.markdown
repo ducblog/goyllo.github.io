@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "XML Sitemap For Blogger : Hidden Features"
-categories: bloggerseo
+categories:
+- bloggerseo
+- blogger
 redirect_from:
  - /google/blogger/seo/xml-sitemap/
  - /2015/04/about-blogger-sitemap.html

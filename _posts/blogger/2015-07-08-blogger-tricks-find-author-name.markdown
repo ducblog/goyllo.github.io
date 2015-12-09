@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "How To Find Author Name of Blogspot/Blogger Blog?"
-categories: bloggertricks
+categories:
+- bloggertricks
+- blogger
 permalink: blogger/tricks/find-author-name-behind-blog/
 tags: 
 - blogger

@@ -4,7 +4,9 @@ title:  "How To Add Meta description In Your Blogger Blog?"
 redirect_from:
  - /blogger/seo-tutorials/meta-description/
  - /google/blogger/seo/meta-description/
-categories: bloggerseo
+categories: 
+- bloggerseo
+- blogger
 permalink: blogger/seo/meta-description/
 tags: 
 - blogger

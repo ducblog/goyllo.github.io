@@ -1,7 +1,9 @@
 ---
 layout: jekyll
 title:  "Generate jekyll XML sitemap"
-categories: jekyllseo
+categories:
+- jekyllseo
+- jekyll
 permalink: jekyll/seo/sitemap-xml/
 redirect_from:
  - /jekyll/sitemap-xml/

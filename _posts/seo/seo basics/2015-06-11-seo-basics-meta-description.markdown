@@ -1,7 +1,9 @@
 ---
 layout: seo
 title:  "How To Optimize Meta Description in your website?"
-categories: seobasics
+categories:
+- seobasics
+- seo
 redirect_from:
  - /webmaster/seo/beginner/optimize-meta-description/
  - /seo/beginner/optimize-meta-description/

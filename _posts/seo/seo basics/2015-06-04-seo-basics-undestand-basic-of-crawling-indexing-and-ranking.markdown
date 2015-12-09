@@ -7,7 +7,9 @@ redirect_from:
  - /webmaster/seo/beginner/basic-of-crawling-indexing-and-ranking/
  - /webmaster/basic-of-crawling-indexing-and-ranking/
  - /webmaster/guides/basic-of-crawling-indexing-and-ranking/
-categories: seobasics
+categories:
+- seobasics
+- seo
 permalink: seo/basics/crawling-indexing-and-ranking/
 tags:
 - webmaster 

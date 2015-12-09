@@ -1,7 +1,9 @@
 ---
 layout: seo
 title:  "Proper Guidelines on Robots.txt with example"
-categories: technicalseo
+categories:
+- technicalseo
+- seo
 permalink: seo/technical/robots-txt/
 redirect_from:
  - /webmaster/robots-txt/

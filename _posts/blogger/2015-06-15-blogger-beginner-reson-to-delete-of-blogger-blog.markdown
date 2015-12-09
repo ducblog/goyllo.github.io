@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "Don't Do This, Otherwise Your Blogger Blog Will Be Deleted"
-categories: bloggerbeginnertutorials
+categories:
+- bloggerbeginnertutorials
+- blogger
 redirect_from:
  - /google/blogger/beginner-tutorials/blog-delete-reason/
 permalink: blogger/beginner/blog-delete-reason/

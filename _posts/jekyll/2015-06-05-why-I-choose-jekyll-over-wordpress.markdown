@@ -1,7 +1,9 @@
 ---
 layout: jekyll
 title:  "Why I chose Jekyll over WordPress"
-categories: jekyllbeginner
+categories:
+- jekyllbeginner
+- jekyll
 redirect_from:
  - /jekyll/personal/jekylll-over-wordpress/
  - /jekyll/jekylll-over-wordpress/

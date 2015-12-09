@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "How To Show Post Title First Before Blog Title In Search Results?"
-categories: bloggertricks
+categories:
+- bloggertricks
+- blogger
 redirect_from:
  - /2015/01/show-blogger-post-title-name-first-in-search-results.html
 permalink: blogger/tricks/show-post-title-first-before-blog-title/

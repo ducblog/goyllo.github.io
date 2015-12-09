@@ -1,7 +1,9 @@
 ---
 layout: blogger
 title:  "How To Remove Powered By Blogger Attribution?"
-categories: bloggerwidget
+categories: 
+- bloggerwidget
+- blogger
 redirect_from:
  - /google/blogger/widget/remover-powered-by-blogger-attribution/
  - /blogger/widget/remover-powered-by-blogger-attribution/

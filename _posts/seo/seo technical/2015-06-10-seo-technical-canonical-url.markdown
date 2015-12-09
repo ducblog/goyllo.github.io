@@ -1,7 +1,9 @@
 ---
 layout: seo
 title:  "Basic of canonical link tag - SEO guide"
-categories: technicalseo
+categories:
+- technicalseo
+- seo
 redirect_from:
  - /webmaster/seo/beginner/canonical-link-tag/
  - /webmaster/seo/beginner/canonical-url/

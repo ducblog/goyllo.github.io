@@ -7,7 +7,9 @@ redirect_from:
  - /google/blogger/beginner-tutorials/change-url-and-name/
  - /2015/01/changing-BlogSpot-name-and-URL-address.html
  - /2015/01/change-blogger-url-name.html
-categories: bloggerbeginnertutorials
+categories: 
+- bloggerbeginnertutorials
+- blogger
 permalink: blogger/beginner/change-url-and-name/
 tags: 
 - blogger
