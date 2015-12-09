@@ -1,18 +1,95 @@
 ---
-layout: default
+layout: homepage
 title: Goyllo Homepage
 description: Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software. 
 sitemap: false
 ---
 
-<center><h1>Goyllo Homepage - Recent Post</h1></center>
-{% for post in site.posts limit:20 %}
-<div class="panel panel-default">
-  <div class="panel-heading">
-    <a class="panel-title" href="{{ post.url | prepend: site.baseurl }}" >{{ post.title }}</a>
-  </div>
-  <div class="panel-body">
-{{post.description}}
-  </div>
+<div class="timeline-centered">
+    
+	<article class="timeline-entry">
+		{% for post in site.categories.blogger reversed limit:1 %}
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon bg-success">
+				<i class="entypo-feather"></i>
+			</div>
+			
+			<div class="timeline-label">
+				<h2><a href="/blogger/">Blogger Tutorials</a></h2>
+				<p>Learn How to create and manage your Google blogger blog.</p>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>
+			</div>
+			
+		</div>
+		{% endfor %}
+	</article>
+	
+	
+	<article class="timeline-entry left-aligned">
+		{% for post in site.categories.seo reversed limit:1 %}
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon bg-secondary">
+				<i class="entypo-suitcase"></i>
+			</div>
+			
+			<div class="timeline-label">
+				<h2><a href="/seo/">Search Engine Optimization</a></h2>
+				<p>Learn How to optimize your website for search engines.</p>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>
+			</div>
+		</div>
+		{% endfor %}
+	</article>
+	
+	
+	<article class="timeline-entry">
+		{% for post in site.categories.jekyll reversed limit:1 %}
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon bg-info">
+				<i class="entypo-location"></i>
+			</div>
+			
+			<div class="timeline-label">
+				<h2><a href="/jekyll/">Jekyll Tutorials</a></h2>
+				<p>Learn How to crete fast static website using Jekyll.</p>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>			
+			</div>
+		</div>
+		{% endfor %}
+	</article>
+	
+	
+	<article class="timeline-entry left-aligned">
+		{% for post in site.categories.blogging reversed limit:1 %}
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon bg-warning">
+				<i class="entypo-camera"></i>
+			</div>
+			
+			<div class="timeline-label">
+				<h2><a href="/blogging/">Blogging</a></h2>
+				<p>Here, I will share my own blogging tips.</p>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>			
+			</div>
+		</div>
+		{% endfor %}
+	</article>
+	
+	
+	<article class="timeline-entry begin">
+	
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
+				<i class="entypo-flight"></i>
+			</div>
+			
+		</div>
+		
+	</article>
+	
 </div>
-{% endfor %}
