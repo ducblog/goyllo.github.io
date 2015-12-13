@@ -18,7 +18,7 @@ sitemap: false
 			<div class="timeline-label">
 				<h2><a href="/blogger/">Blogger Tutorials</a></h2>
 				<p>Learn How to create and manage your Google blogger blog.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>
 			</div>
 			
 		</div>
@@ -37,7 +37,7 @@ sitemap: false
 			<div class="timeline-label">
 				<h2><a href="/seo/">Search Engine Optimization</a></h2>
 				<p>Learn How to optimize your website for search engines.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>
 			</div>
 		</div>
 		{% endfor %}
@@ -55,7 +55,7 @@ sitemap: false
 			<div class="timeline-label">
 				<h2><a href="/jekyll/">Jekyll Tutorials</a></h2>
 				<p>Learn How to crete fast static website using Jekyll.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>			
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
 			</div>
 		</div>
 		{% endfor %}
@@ -73,7 +73,7 @@ sitemap: false
 			<div class="timeline-label">
 				<h2><a href="/blogging/">Blogging</a></h2>
 				<p>Here, I will share my own blogging tips.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title | xml_escape }}<a/></span>			
+				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
 			</div>
 		</div>
 		{% endfor %}
@@ -81,15 +81,33 @@ sitemap: false
 	
 	
 	<article class="timeline-entry begin">
-	
+	{% for post in site.posts limit:1 %}
 		<div class="timeline-entry-inner">
 			
 			<div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
 				<i class="entypo-flight"></i>
 			</div>
 			
+			<div class="timeline-label">
+				<h2>Recent Post:</h2>
+				<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
+			</div>
+			
 		</div>
-		
+	{% endfor %}
 	</article>
 	
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.goyllo.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.example.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
