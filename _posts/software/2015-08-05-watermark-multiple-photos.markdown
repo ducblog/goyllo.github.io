@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to add watermark to multiple photos?"
+title:  "How To Add Watermark To Multiple Photos?"
 categories: software
 permalink: software/watermark-multiple-photos/
 description: Learn how to add watermark in multiple photos, images or picture with free batch software.
