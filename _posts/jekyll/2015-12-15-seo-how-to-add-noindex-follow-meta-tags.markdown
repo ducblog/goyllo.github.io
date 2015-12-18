@@ -11,6 +11,12 @@ tags:
 description: Learn How to add noindex, follow Meta tags in specific Jekyll pages to prevent Google Panda penalties.
 ---
 
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/jekyll/" itemprop="url"><span title="Jekyll Tutorials" itemprop='title'>Jekyll Tutorials</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/jekyll/seo/" itemprop="url"><span title="Jekyll SEO" itemprop='title'>Jekyll SEO</span></a></span>
+</div>
+
 Here I will guide you how to add noindex and follow Meta tags in specific Jekyll pages.
 
 Here is what Google said about this Meta tags.

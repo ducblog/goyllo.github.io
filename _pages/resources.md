@@ -1,7 +1,10 @@
 ---
 layout: page
 title: Resources
+redirect_from:
+ - /resource/
 permalink: resources/
+metatags: noindex, follow
 ---
 
 Here, I shared the resource, that I used into my website. Hope you like it.

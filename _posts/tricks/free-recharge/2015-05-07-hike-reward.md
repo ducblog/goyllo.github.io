@@ -8,12 +8,15 @@ tags:
 - hike
 - inviteearn
 - freerecharge
+metatags: noindex, follow
 ---
+<!--
 <div class="breadcrumb">
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/tricks/" itemprop="url"><span title="Tricks" itemprop='title'>Internet Tricks</span></a></span>
 <span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/tricks/free-recharge/" itemprop="url"><span title="Free Recharge" itemprop='title'>Free Recharge</span></a></span>
 </div>
+-->
 
 
 When it comes to free messaging from smartphone then there are numerous of applications to communicate with our friends, Coworkers and family members, but the quickest way is Instant online messaging. for now Whatsapp is the most popular instant messaging client but sadly It is not free for Life, as you have to buy the service after one year. There can be no other competitive alternatives to whatsapp but in New Delhi a new Messenger is made with love named “Hike” the Hike messenger have gained a lot of popularity in short period. The Hike comes with Fre instant messaging for life without any ads. The features of Hike is almost same as whatsapp but some additional benefits makes us to Choose Hike rather than whatsapp.

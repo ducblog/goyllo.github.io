@@ -7,6 +7,7 @@ description: Learn How to make simple batch file virus into Notepad to destroy y
 tags: 
 - windowstricks
 - virus
+metatags: noindex, follow
 ---
 
 In this post we'll take a look on how to create a deadly computer virus to destroy your enemy or victim's PC...
