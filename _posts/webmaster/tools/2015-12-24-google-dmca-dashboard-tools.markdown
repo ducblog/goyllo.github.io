@@ -43,7 +43,7 @@ A. Mostly Google understands your high quality website. I have never seen any hi
 
 Q. Someone copied my website content, and link back to me, is it OK?
 
-A. I know, you are getting backlinks by doing that, but the quality of that link will never impact any effect (not even small) in ranking, so I don’t think, you should do that for backlinks purpose. 
+A. I know, you are getting backlinks by doing that, but the quality of that link will never impact any effect (not even small) in ranking, so I don’t think, you should do that for backlinks purpose. Specially you should not do that, when your website is new, and you have not enough trusted links.
 
 Q. Does Google penalize my site for the duplicate issue?
 
