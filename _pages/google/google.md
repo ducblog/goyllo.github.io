@@ -22,3 +22,12 @@ metatags: noindex, follow
 		 Use Google Analytics to improve User Experience in your website.
 	 </div>
 </div>
+
+<div class="panel panel-success">
+  <div class="panel-heading">
+    <a class="panel-title" href="/google/alert/">Google Alert</a>
+  </div>
+	 <div class="panel-body">
+		 Google Alerts Tutorials
+	 </div>
+</div>

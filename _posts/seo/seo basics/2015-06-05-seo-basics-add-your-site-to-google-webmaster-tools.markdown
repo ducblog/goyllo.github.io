@@ -1,6 +1,6 @@
 ---
 layout: seo
-title:  "How to add your website to Google Webmaster Tools"
+title:  "How to Add Your Website to Google Webmaster Tools"
 categories:
 - seobasics
 - seo

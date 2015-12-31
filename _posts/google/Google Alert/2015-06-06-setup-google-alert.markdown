@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  "How to create Google News Alert?"
-categories: internet
+title:  "How to Create Google News Alert?"
+categories: googlealert
 redirect_from:
- - /google/alert/get-news-in-your-email/
-permalink: internet/get-news-in-your-email/
+ - internet/get-news-in-your-email/
+permalink: /google/alert/setup-google-alert/
 tags: 
 - Google-Alert
 description: How to setup Google Alert news to get your favorite news directly in your email address.
 ---
+
+<div class="breadcrumb">
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'><a href="/" itemprop="url"><span title="Goyllo" itemprop='title'>Goyllo</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/google/" itemprop="url"><span title="Google" itemprop='title'>Google</span></a></span>
+<span itemscope='itemscope' itemtype='http://data-vocabulary.org/Breadcrumb'>&#187; <a href="/google/alert/" itemprop="url"><span title="Google Alert" itemprop='title'>Google Alert</span></a></span>
+</div>
 
 A Google Alert is one of the amazing products of <a href="/google/">Google</a> Company, it will help to get specific news on any topic, directly to the Gmail inbox.
 
