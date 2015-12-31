@@ -1,6 +1,6 @@
 ---
 layout: webmaster
-title:  "How To Use Google DMCA Tool to Remove Theft Content From Search Result?"
+title:  "How To Use Google DMCA Tool To Remove Theft Content From Search Result?"
 categories: webmastertools
 permalink: webmaster/tools/google-dmca-notice/
 description: Learn how to Use DMCA Tools from Google Webmaster Tools, to remove your stolen content.
