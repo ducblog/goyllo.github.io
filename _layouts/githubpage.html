@@ -1,0 +1,37 @@
+---
+layout: null
+---
+<html>
+
+  {% include head.html %}
+
+  <body>
+		   {% include header/github.html %}
+	<section class="container">
+		<div class ="content row">
+		
+			<section class="main col col-lg-2 visible-lg">
+			</section>
+			
+			<section class="main col col-lg-7">
+				 <div class="post">
+				  <header class="post-header">
+					<h1 class="post-title">{{ page.title }}</h1>
+				  </header>
+				  <article class="post-content">
+					{{ content }}
+				  </article>
+				</div>
+            </section>
+			
+			<section class="sidebar col col-lg-3">
+			{% include ads.html %}
+			</section>
+		</div>
+	</section>
+				
+    {% include footer.html %}
+	
+  </body>
+
+</html>
