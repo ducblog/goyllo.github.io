@@ -40,7 +40,7 @@ I know getting AdSense on another topic is really tough. But don’t use third p
 
 ## Don’t Use hate speech in your blog post ##
 
-I know Many of Governments (Like Indian) gives you the freedom to talk freely in cyberspace. But Google blogger doesn’t give you. So whenever you post any articles it should be user friendly.
+I know Many of Governments gives you the freedom to talk freely in cyberspace. But Google blogger doesn’t give you. So whenever you post any articles it should be user friendly.
 
 ## Don’t Use, Copyright content in your blog post ##
 Many of bloggers directly embed images, videos and files (cracked software+hacked content) in their post without checking its license first. Also, some spammer copy paste someone articles on their post. Yes, you will not penalize immediately, but when you start driving more and more traffic to your blog, your chances of deletion will also increase.

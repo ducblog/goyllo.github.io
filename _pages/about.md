@@ -16,6 +16,6 @@ I created this site to share my own experience with technology, life, or World. 
 Goyllo is currently running on <a href="/jekyll/jekyll-vs-wordpress/" target="_blank">Jekyll</a> to generate static pages and hosted with <a href="https://pages.github.com" rel="nofollow" target="_blank">Github Pages</a>. 
 
 ## Contact ##
-Contact email - Arjun@goyllo.com OR Arjunsinh.chauhan4@gmail.com
+Contact email - arjun(at)goyllo. com
 
 
