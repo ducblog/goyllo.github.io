@@ -19,7 +19,7 @@ metatags: noindex, follow
 -->
 
 
-When it comes to free messaging from smartphone then there are numerous of applications to communicate with our friends, Coworkers and family members, but the quickest way is Instant online messaging. for now Whatsapp is the most popular instant messaging client but sadly It is not free for Life, as you have to buy the service after one year. There can be no other competitive alternatives to whatsapp but in New Delhi a new Messenger is made with love named “Hike” the Hike messenger have gained a lot of popularity in short period. The Hike comes with Fre instant messaging for life without any ads. The features of Hike is almost same as whatsapp but some additional benefits makes us to Choose Hike rather than whatsapp.
+When it comes to free messaging from smartphone then there are numerous of applications to communicate with our friends, Coworkers and family members, but the quickest way is Instant online messaging. for now Whatsapp is the most popular instant messaging client but sadly It is not free for Life, as you have to buy the service after one year. There can be no other competitive alternatives to whatsapp but in New Delhi a new Messenger is made with love named “Hike” the Hike messenger have gained a lot of popularity in short period. The Hike comes with Free instant messaging for life without any ads. The features of Hike is almost same as whatsapp but some additional benefits makes us to Choose Hike rather than whatsapp.
 
 ## Hike : much better than Whatsapp ##
 
@@ -59,10 +59,12 @@ You can get Rs.50 and more Talk time easily by promoting hike with your Friends.
 4. This can be done by referring two friends
 
 Go and Download your Hike App from Hike.in
+
 After installing this wonderful client on your phone, Just Invite your friends via Free SMS (provided bby Hike)
+
 Visit the Rewards page on hike applications to see how much rewards you have earned
-Redeem talk time when your balance reaches Rs.50
-That’s it! You get free talktime of Rs.50 by just refereeing two friends.
+
+Redeem talk time when your balance reaches Rs.50 That’s it! You get free talktime of Rs.50 by just refereeing two friends.
 
 As compared with other promotional and referring services, Hike is much better for instant messaging and also getting credits. The Rewards can also be used as free sms from Hike to SMS. coming to overall features Hike ranks more better than  whatsapp. To be honest if you will Use Hike for 10 Minutes you will notice the Difference and will choose Hike messenger for your further text needs.
 
