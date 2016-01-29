@@ -1,6 +1,6 @@
 ---
 layout: coupons
-title:  "Hostgator Coupons: Black Friday Crazy Deals"
+title:  "Hostgator Coupons 60% OFF: January Weekend Promo code"
 permalink: /coupons/hostgator/
 ---
 
@@ -36,6 +36,49 @@ permalink: /coupons/hostgator/
                 </div>
                 <div class="exp">Valid All Time</div>
               </div> 
+			   
+</div>
+
+<div class="panel panel-default coupon" id="blackfridayoffer">
+              <div class="panel-heading" id="head">
+                <div class="panel-title" id="title">
+				<h2 class="hidden-xs">HostGator Weekend Promo: Up to 60% Off! </h2>
+                <h2 class="visible-xs">HostGator Weekend Promo: Up to 60% Off! </h2>
+                </div>
+              </div>
+              
+              <div class="panel-footer">
+                <div class="coupon-code">
+                    <p> 40% Off All New Hosting Packages + 20% Off Code Guard!</p>
+                    <div id="hostgatorw1" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: JAN129</p></div>
+                    <span class="print"><script>function hostgatordivw1() { document.getElementById('hostgatorw1').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivw1" onclick="hostgatordivw1()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">29th January 2016 (12:00am to 11:59pm - CST) </div>
+              </div> 
+
+			<div class="panel-footer">
+                <div class="coupon-code">
+                    <p> 50% Off All New Hosting Packages + 20% Off Code Guard!</p>
+                    <div id="hostgatorw2" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: JAN130</p></div>
+                    <span class="print"><script>function hostgatordivw2() { document.getElementById('hostgatorw2').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivw2" onclick="hostgatordivw2()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">30th January 2016 (12:00am to 11:59pm - CST)</div>
+             </div> 
+			  
+			  <div class="panel-footer">
+                <div class="coupon-code">
+                    <p> 60% Off All New Hosting Packages + 20% Off Code Guard!</p>
+                    <div id="hostgatorw3" style="display:none;"><p class="promocodecolor">Your Hostgaor Code: JAN131</p></div>
+                    <span class="print"><script>function hostgatordivw3() { document.getElementById('hostgatorw3').style.display = "block";}</script>
+                        <a class="btn btn-success btn-sm" rel="nofollow" href="http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=Arjun3315" target="_blank" id="hostgatordivw3" onclick="hostgatordivw3()">Show Me Code </a> 	
+                    </span>
+                </div>
+                <div class="exp">31st January 2016 (12:00am to 11:59pm - CST)</div>
+              </div> 			 
 			   
 </div>
 
