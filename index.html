@@ -6,8 +6,25 @@ sitemap: false
 ---
 
 <div class="timeline-centered">
-    
+	
 	<article class="timeline-entry">
+	{% for post in site.posts limit:1 %}
+		<div class="timeline-entry-inner">
+			
+			<div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
+				<i class="entypo-flight"></i>
+			</div>
+			
+			<div class="timeline-label">
+				<h2>Recent Post:</h2>
+				<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
+			</div>
+			
+		</div>
+	{% endfor %}
+	</article>
+    
+	<article class="timeline-entry left-aligned">
 		{% for post in site.categories.blogger reversed limit:1 %}
 		<div class="timeline-entry-inner">
 			
@@ -26,7 +43,7 @@ sitemap: false
 	</article>
 	
 	
-	<article class="timeline-entry left-aligned">
+	<article class="timeline-entry">
 		{% for post in site.categories.seo reversed limit:1 %}
 		<div class="timeline-entry-inner">
 			
@@ -44,7 +61,7 @@ sitemap: false
 	</article>
 	
 	
-	<article class="timeline-entry">
+	<article class="timeline-entry left-aligned">
 		{% for post in site.categories.jekyll reversed limit:1 %}
 		<div class="timeline-entry-inner">
 			
@@ -62,7 +79,7 @@ sitemap: false
 	</article>
 	
 	
-	<article class="timeline-entry left-aligned">
+	<article class="timeline-entry">
 		{% for post in site.categories.blogging reversed limit:1 %}
 		<div class="timeline-entry-inner">
 			
@@ -79,35 +96,4 @@ sitemap: false
 		{% endfor %}
 	</article>
 	
-	
-	<article class="timeline-entry begin">
-	{% for post in site.posts limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
-				<i class="entypo-flight"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2>Recent Post:</h2>
-				<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
-			</div>
-			
-		</div>
-	{% endfor %}
-	</article>
-	
 </div>
-
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "https://www.goyllo.com/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://www.goyllo.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
