@@ -3,7 +3,8 @@ layout: post
 title:  "How to Create Google News Alert?"
 categories: googlealert
 redirect_from:
- - internet/get-news-in-your-email/
+ - /internet/get-news-in-your-email/
+ - /google/alert/get-news-in-your-email/
 permalink: /google/alert/setup-google-alert/
 tags: 
 - Google-Alert
