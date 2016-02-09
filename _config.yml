@@ -10,7 +10,6 @@ twitter_username: Goyllocom
 github_username:  goyllo
 
 # Build settings
-highlighter: pygments
 markdown: kramdown
 permalink: none
 
