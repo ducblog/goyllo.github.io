@@ -47,9 +47,11 @@ So here I implemented same canonical URL in page-1.html and page-2.html, and so 
 Many of people assume, they have no duplicate URLs for the same content, but technically these URLs are different,
 
     www.example.com/mypage
+    www.exmple.com/mypage.html
     www.example.com/mypage/
     example.com
     https://www.example.com
+    
 
 So if you did not setup redirection between them, and mention some of the links with www, https, and trailing slash, and others without www, https and trailing slash, then Google can index both version in search result. So for a best practice you should include canonical URL tags in every webpage. So search engine can understand which preferred URL, you want to index in search result. So first off search your site on Google, and check out your all webpage’s URL, Are you satisfied with it or not?. If not, then you should do canonicaliation in your website into head tags. If you did not setup canonical URL tag, then Google can automatically pick up best URL as per how many times your links are referred from other webpage’s, so many times, people link to `goyllo.com/webmaster/canonical-link-tag/` URL, thank god it is redirects to my proper URL `https://www.goyllo.com/webmaster/canonical-link-tag/` automatically, otherwise Google index both the pages in search result, and it is very bad sign in SEO. So canonical tags, many times helpful in many ways, so you should include it in your website, or in your blog by using third party plugins or widget. Google uses, your canonical tags many times, when people point your website and forgot to add slashes at the end of URL, also forgot to mention www subdomain and https in URL. So **your juicy link (PageRank) will only go to your preferred version (canonical URL), it will not distribute to other version**. Yes, you can also do 301 redirection to save your PageRank, but you need to setup manually, for all the situation, but once you setup canonical tags, you did not worry about all the redirection option across www, non-www, https, trialing slash etc. Also, you did not worry about how your page is linked from another source, Google does its job very carefully to save your important pages.
 
