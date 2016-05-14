@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "How to install and setup jekyll in windows?"
-categories: jekyllbeginner
 comments: true
 permalink: jekyll/install-jekyll-into-windows/
+metatags: noindex, follow
 tags: 
 - jekyll
 description: Here is beginner tutorial to install Jekyll in your windows operation system. 
