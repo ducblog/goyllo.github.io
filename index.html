@@ -1,99 +1,143 @@
----
-layout: homepage
-title: Goyllo Homepage
-description: Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software. 
-sitemap: false
----
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://img.goyllo.com/favicon.ico" type="image/x-icon">
+  <title>Goyllo</title>
+  <meta name="description" content="Goyllo is tech website, where you can find many tutorials, tips and guidelines on Internet and software.">
+  
+  <link rel="stylesheet" href="https://www.goyllo.com/style/main.css">
+  <link rel="canonical" href="https://www.goyllo.com/">
+  <link rel="alternate" type="application/rss+xml" title="Goyllo" href="https://www.goyllo.com/feed.xml">
+  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
 
-<div class="timeline-centered">
-	
-	<article class="timeline-entry">
-	{% for post in site.posts limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon" style="-webkit-transform: rotate(-90deg); -moz-transform: rotate(-90deg);">
-				<i class="entypo-flight"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2>Recent Post:</h2>
-				<span><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
-			</div>
-			
-		</div>
-	{% endfor %}
-	</article>
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/110488892/bottomads', [728, 90], 'div-gpt-ad-1471598164316-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+</head>
+  <body>
+  <header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="/">Goyllo</a>
+    <nav class="site-nav">
+      <a href="#" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+      <div class="trigger">
+          <a class="page-link" href="/about/">About</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+  <div class="page-content">
+      <div class="wrapper">
+        <div class="home">
+  <h1 class="page-heading">Recent Blog Posts</h1>
     
-	<article class="timeline-entry left-aligned">
-		{% for post in site.categories.blogger reversed limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon bg-success">
-				<i class="entypo-feather"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2><a href="/blogger/">Blogger Tutorials</a></h2>
-				<p>Learn How to create and manage your Google blogger blog.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>
-			</div>
-			
+		<div class="special">
+        <h2>
+          <a href="/jekyll/beginner/install-google-analytics/">How to Add Google Analytics in Jekyll Website?</a>
+        </h2>
+		<div class="pagedescription"><p>Learn How to install the Google Analytics code in your Jekyll website without using any plugin.</p></div>
 		</div>
-		{% endfor %}
-	</article>
-	
-	
-	<article class="timeline-entry">
-		{% for post in site.categories.seo reversed limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon bg-secondary">
-				<i class="entypo-suitcase"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2><a href="/seo/">Search Engine Optimization</a></h2>
-				<p>Learn How to optimize your website for search engines.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>
-			</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/jekyll/deploy/google-firebase/">Host Jekyll Website To Google Firebase For Free</a>
+        </h2>
+		<div class="pagedescription"><p>Learn How to deploy or host your jekyll website for free to Google Firebase with SSL support.</p></div>
 		</div>
-		{% endfor %}
-	</article>
-	
-	
-	<article class="timeline-entry left-aligned">
-		{% for post in site.categories.jekyll reversed limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon bg-info">
-				<i class="entypo-location"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2><a href="/jekyll/">Jekyll Tutorials</a></h2>
-				<p>Learn How to crete fast static website using Jekyll.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
-			</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/jekyll/beginner/install-jekyll-into-windows/">How to Install and Setup Jekyll in Windows?</a>
+        </h2>
+		<div class="pagedescription"><p>Here is a beginner tutorial to install Jekyll in your windows system without any trouble.</p></div>
 		</div>
-		{% endfor %}
-	</article>
-	
-	
-	<article class="timeline-entry">
-		{% for post in site.categories.blogging reversed limit:1 %}
-		<div class="timeline-entry-inner">
-			
-			<div class="timeline-icon bg-warning">
-				<i class="entypo-camera"></i>
-			</div>
-			
-			<div class="timeline-label">
-				<h2><a href="/blogging/">Blogging</a></h2>
-				<p>Here, I will share my own blogging tips.</p>
-				<span>Latest Post: <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | xml_escape }}<a/></span>			
-			</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/android/settings/find-mac-address-on-android-device/">How To Find a Mac Address on Android devices?</a>
+        </h2>
+		<div class="pagedescription"><p>Step by step tutorial with screenshot to find out the MAC address of your Android device.</p></div>
 		</div>
-		{% endfor %}
-	</article>
-	
+    
+		<div class="special">
+        <h2>
+          <a href="/webmaster/tools/check-keyword-rank-with-google-search-console/">How to Check Keyword Rank with Google Webmaster Tools?</a>
+        </h2>
+		<div class="pagedescription"><p>Follow these 3 simple steps in Google Webmaster Tools to checkout, your keyword position in Google Search results.</p></div>
+		</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/github/pages/free-cloudflare-ssl-for-custom-domain/">How To Add Free Cloudflare SSL in Github Pages with Custom Domain?</a>
+        </h2>
+		<div class="pagedescription"><p>Step by step tutorial to setup free SSL certificate in your Github Pages with a custom domain, by using Free Cloudflare Universal SSL.</p></div>
+		</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/webmaster/tools/google-dmca-notice/">How To Use Google DMCA Tool To Remove Theft Content From Search Result?</a>
+        </h2>
+		<div class="pagedescription"><p>Learn how to Use DMCA Tools from Google Webmaster Tools, to remove your stolen content from Google search result.</p></div>
+		</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/google/alert/find-website-content-theft/">How To Find Out Who Is Stealing Your Website Content Using Google Alert?</a>
+        </h2>
+		<div class="pagedescription"><p>Learn How to Use Google Alert to find out who copied your website content.</p></div>
+		</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/jekyll/seo/noindex-follow-meta-tags/">How to Add Noindex Meta Tags in Jekyll Pages?</a>
+        </h2>
+		<div class="pagedescription"><p>Learn How to add noindex, follow Meta tags in specific Jekyll pages to prevent Google Panda penalties.</p></div>
+		</div>
+    
+		<div class="special">
+        <h2>
+          <a href="/hosting/email/free-zoho-mail/">How To Create Free Business Email With Zoho Mail?</a>
+        </h2>
+		<div class="pagedescription"><p>Step by step tutorial to create your free business email with Zoho email hosting.</p></div>
+		</div>
+    
 </div>
+
+      </div>
+    </div>
+    <footer class="site-footer">
+  <div class="wrapper">
+        <p>&copy; Goyllo 2016</p>
+  </div>
+</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-64734185-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>
